@@ -55,7 +55,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-          CPU: None
+          CPU: AnyCPU
     data:
       first:
         Facebook: Win64
@@ -69,7 +69,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-          CPU: None
+          CPU: x86
     data:
       first:
         Standalone: Linux64
@@ -90,7 +90,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-          CPU: None
+          CPU: AnyCPU
     data:
       first:
         Standalone: OSXIntel64
@@ -111,7 +111,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-          CPU: None
+          CPU: AnyCPU
     data:
       first:
         Standalone: Win64
