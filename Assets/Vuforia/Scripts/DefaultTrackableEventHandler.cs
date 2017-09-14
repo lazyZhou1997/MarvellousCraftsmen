@@ -30,6 +30,7 @@ namespace Vuforia
             if (mTrackableBehaviour)
             {
                 mTrackableBehaviour.RegisterTrackableEventHandler(this);
+                
             }
         }
 

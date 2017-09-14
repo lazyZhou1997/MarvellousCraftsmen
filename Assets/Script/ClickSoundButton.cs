@@ -12,7 +12,7 @@ public class ClickSoundButton : MonoBehaviour {
     public Sprite muteSoundSprite;
 
     //用于判断是否静音
-    private bool mute = false;
+    public bool mute = false;
 
     //点击时将声音按钮图片设置为静音状态
     public void OnClicSoundButton()

@@ -124,14 +124,14 @@ public class WaterFlowFREEDemo : MonoBehaviour
 	// U speed
 	void OnSlider_SimpleUSpeed(float value)
 	{
-		m_WaterSimple_UMoveSpeed = value;
+		m_WaterSimple_UMoveSpeed = 0;
 		m_SimpleWater.GetComponent<Renderer>().material.SetFloat("_MoveSpeedU", m_WaterSimple_UMoveSpeed);
 	}
 
 	// V speed
 	void OnSlider_SimpleVSpeed(float value)
 	{
-		m_WaterSimple_VMoveSpeed = value;
+		m_WaterSimple_VMoveSpeed = 0;
 		m_SimpleWater.GetComponent<Renderer>().material.SetFloat("_MoveSpeedV", m_WaterSimple_VMoveSpeed);
 	}
 

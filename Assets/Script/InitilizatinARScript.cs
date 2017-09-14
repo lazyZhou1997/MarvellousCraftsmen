@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InitilizatinARScript : MonoBehaviour {
+public class InitilizatinARScript : MonoBehaviour
+{
+
 
 	// Use this for initialization
 	void Start () {
-        
+       
     }
 	
 	// Update is called once per frame

@@ -1,3 +1,4 @@
+
 /*==============================================================================
 Copyright (c) 2010-2014 Qualcomm Connected Experiences, Inc.
 All Rights Reserved.
@@ -15,5 +16,9 @@ namespace Vuforia
     /// </summary>
     public class ImageTargetBehaviour : ImageTargetAbstractBehaviour
     {
+
+
+        
     }
+
 }

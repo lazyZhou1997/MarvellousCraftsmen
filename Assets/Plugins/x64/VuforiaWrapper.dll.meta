@@ -55,7 +55,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-          CPU: AnyCPU
+          CPU: None
     data:
       first:
         Facebook: Win64
@@ -111,7 +111,7 @@ PluginImporter:
       second:
         enabled: 0
         settings:
-          CPU: AnyCPU
+          CPU: None
     data:
       first:
         Standalone: Win64
@@ -121,11 +121,17 @@ PluginImporter:
           CPU: AnyCPU
     data:
       first:
+        WebGL: WebGL
+      second:
+        enabled: 0
+        settings: {}
+    data:
+      first:
         Windows Store Apps: WindowsStoreApps
       second:
         enabled: 0
         settings:
-          CPU: AnyCPU
+          CPU: X86
           DontProcess: False
           PlaceholderPath: 
           SDK: AnySDK

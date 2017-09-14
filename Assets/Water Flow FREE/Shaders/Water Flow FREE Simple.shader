@@ -30,8 +30,8 @@ Shader "Water Flow FREE/Water Flow FREE Simple" {
 		
 			fixed2 MoveScrolledUV = IN.uv_MainTex;
 			
-			fixed MoveU = _MoveSpeedU * _Time;
-			fixed MoveV = _MoveSpeedV * _Time;
+			fixed MoveU = 10 * _Time;
+			fixed MoveV = 10 * _Time;
 			
 			MoveScrolledUV += fixed2(MoveU, MoveV);
 		

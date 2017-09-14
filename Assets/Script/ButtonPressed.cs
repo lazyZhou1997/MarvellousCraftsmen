@@ -14,8 +14,12 @@ public class ButtonPressed : MonoBehaviour {
         //获取按钮音效
         AudioSource buttonpressedMusic = gameObject.GetComponent<AudioSource>();
 
-        //播放按钮音效
-        buttonpressedMusic.Play();
+        //判断是否静音
+        ClickSoundButton clickSoundButton = GameObject.Find("SoundButton").GetComponent<ClickSoundButton>();
 
+        //如果不是静音播放按钮音效
+        if (!clickSoundButton.mute){
+            buttonpressedMusic.Play();
+        }
     }
 }
