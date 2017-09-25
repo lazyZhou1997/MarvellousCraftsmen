@@ -58,6 +58,8 @@ namespace Vuforia
             {
                 OnTrackingLost();
             }
+
+            
         }
 
         #endregion // PUBLIC_METHODS

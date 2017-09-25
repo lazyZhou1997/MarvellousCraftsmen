@@ -5,7 +5,7 @@ using UnityEngine;
 public class QuitGame : MonoBehaviour {
 
     //退出游戏时的操作
-    public void OnApplicationQuit()
+    public void OnApplicationQuiting()
     {
 
     }
