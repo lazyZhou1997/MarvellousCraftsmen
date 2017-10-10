@@ -30,7 +30,6 @@ namespace Vuforia
             if (mTrackableBehaviour)
             {
                 mTrackableBehaviour.RegisterTrackableEventHandler(this);
-                
             }
         }
 
@@ -58,8 +57,6 @@ namespace Vuforia
             {
                 OnTrackingLost();
             }
-
-            
         }
 
         #endregion // PUBLIC_METHODS

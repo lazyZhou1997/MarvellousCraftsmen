@@ -6,12 +6,11 @@
     <ImageTarget name="TheatreTopShell2" size="1.000000 0.617442" />
     <ImageTarget name="TheatreTopShell" size="1.000000 0.617442" />
     <ImageTarget name="TheaterFirstFloor" size="1.000000 0.617442" />
-    <ImageTarget name="RestaurantTopShell" size="1.000000 0.617442" />
     <ImageTarget name="OperaMainHall" size="1.000000 0.617442" />
     <ImageTarget name="OperaHouseBase" size="1.000000 0.617442" />
     <ImageTarget name="ConcertSecondFloor" size="1.000000 0.617442" />
     <ImageTarget name="ConcertFirstFloor" size="1.000000 0.617442" />
+    <ImageTarget name="RestaurantTopShell" size="1.000000 0.617442" />
     <ImageTarget name="terrainPic" size="1.000000 0.617442" />
-    <ImageTarget name="sydney" size="1.000000 0.617442" />
   </Tracking>
 </QCARConfig>

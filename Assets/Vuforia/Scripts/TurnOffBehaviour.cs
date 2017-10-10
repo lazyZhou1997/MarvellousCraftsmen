@@ -18,7 +18,6 @@ namespace Vuforia
 
         void Awake()
         {
-
             if (VuforiaRuntimeUtilities.IsVuforiaEnabled())
             {
                 // We remove the mesh components at run-time only, but keep them for
