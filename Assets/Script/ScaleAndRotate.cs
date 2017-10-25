@@ -1,8 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-
+using Vuforia;
 
 
 public class ScaleAndRotate : MonoBehaviour
@@ -21,9 +20,7 @@ public class ScaleAndRotate : MonoBehaviour
 
         if (Input.touchCount <= 0)
         {
-
             return;
-
         }
 
         //单点触摸， 水平上下旋转
@@ -35,9 +32,9 @@ public class ScaleAndRotate : MonoBehaviour
 
             Vector2 deltaPos = touch.deltaPosition;
 
-            transform.Rotate(Vector3.down * deltaPos.x * 0.9f, Space.World); //绕Y轴进行旋转
+            transform.Rotate(Vector3.down * deltaPos.x * 0.9f, Space.Self); //绕Y轴进行旋转
 
-            transform.Rotate(Vector3.right * deltaPos.y * 0.9f, Space.World); //绕X轴进行旋转，下面我们还可以写绕Z轴进行旋转
+            //transform.Rotate(Vector3.up* deltaPos.y * 0.9f, Space.World); //绕X轴进行旋转，下面我们还可以写绕Z轴进行旋转
 
         }
 
