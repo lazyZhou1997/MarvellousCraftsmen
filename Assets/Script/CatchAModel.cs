@@ -14,11 +14,7 @@ public class CatchAModel : MonoBehaviour
     public Image[] itemImages = new Image[5];
     #endregion
 
-    #region 动态加载路径
 
-    private static string sydneyItemsPicturePath = "Resource\\picture\\ItemBar\\Sydney\\";//悉尼歌剧院的物品图片存储地址  
-    private static string sydneyItemsPrefabPath = "Resource\\prefab\\Sydney\\Collider\\";//悉尼歌剧院的Prefab存储地址
-    #endregion
 
     public CurrentSenceDataShare currentSenceDataShare;//当前场景中的共享数据类
 
@@ -94,34 +90,18 @@ public class CatchAModel : MonoBehaviour
         
         #region 完成物品栏中图片的加载
         //加载itemName对应的图片资源
-        itemSprite = (Sprite)Resources.Load(sydneyItemsPicturePath + items[position], typeof(Sprite));
+        itemSprite = LoadUtils.LoadSpriteFromResources(ConfigureClass.sydneyItemsPicturePath + items[position]);
         //将Sprite图片加载到物品栏上,itemImages是对物品栏上的图片框的引用
         itemImages[position].sprite = itemSprite;
         #endregion
 
-        #region 取消以前的物品栏中对象的激活
-
-        Debug.Log("进入取消以前的物品栏中对象的激活");
-        GameObject[] itemGameObjects = currentSenceDataShare.CurrentItemgGameObjects;//获取对物品栏对象集合的引用
-        //将物品栏对象集合中的所有对象设置为不激活
-        for (int i = 0; i < itemGameObjects.Length; i++)
-        {
-            if (null!=itemGameObjects[i])
-            {
-                itemGameObjects[i].SetActive(false);
-            }
-        }
-        Debug.Log("完成取消以前的物品栏中对象的激活");
-        #endregion
-
         #region 完成物品栏中对象的加载
         //加载对应的prefab对象,实例化预设体
-        itemGameObject = (GameObject)Resources.Load(sydneyItemsPrefabPath + items[position] + "PB", typeof(GameObject));
-        Debug.Log("加载对象" + items[position] + "PB");
+        itemGameObject = LoadUtils.LoadPrefabFromResources(ConfigureClass.sydneyItemsPrefabPath + items[position]);
+        Debug.Log("加载对象" + items[position]);
         itemGameObject = Instantiate(itemGameObject) as GameObject;
         //添加到当前物品栏中对象集合中
-        currentSenceDataShare.CurrentItemgGameObjects[position] = itemGameObject;
+        currentSenceDataShare.AddItemGameObjects(itemGameObject,position);
         #endregion
-        
     }
 }

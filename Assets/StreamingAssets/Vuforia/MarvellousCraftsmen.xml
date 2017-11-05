@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Saddle" size="1.000000 0.617442" />
+    <ImageTarget name="HandleBar" size="1.000000 0.617442" />
+    <ImageTarget name="FrontPivot" size="1.000000 0.617442" />
+    <ImageTarget name="FrontFork" size="1.000000 0.617442" />
+    <ImageTarget name="FootBoard" size="1.000000 0.617442" />
+    <ImageTarget name="Chain" size="1.000000 0.617442" />
+    <ImageTarget name="BrakeDisc" size="1.000000 0.617442" />
+    <ImageTarget name="BikeWheel" size="1.000000 0.617442" />
+    <ImageTarget name="BikeFrame" size="1.000000 0.617442" />
+    <ImageTarget name="BackPivot" size="1.000000 0.617442" />
+    <ImageTarget name="Wheel" size="1.000000 0.617442" />
+    <ImageTarget name="Seat" size="1.000000 0.617442" />
+    <ImageTarget name="FrontDoor" size="1.000000 0.617442" />
+    <ImageTarget name="Engine" size="1.000000 0.617442" />
+    <ImageTarget name="CarShell" size="1.000000 0.617442" />
+    <ImageTarget name="CarBase" size="1.000000 0.617442" />
+    <ImageTarget name="BackDoor" size="1.000000 0.617442" />
+    <ImageTarget name="Umbrella" size="1.000000 0.617442" />
+    <ImageTarget name="RoofDecoration" size="1.000000 0.617442" />
+    <ImageTarget name="Orbit" size="1.000000 0.617442" />
+    <ImageTarget name="MiddleColumn" size="1.000000 0.617442" />
+    <ImageTarget name="LandBase" size="1.000000 0.617442" />
+    <ImageTarget name="HorseUP" size="1.000000 0.617442" />
+    <ImageTarget name="HorseDOWN" size="1.000000 0.617442" />
+    <ImageTarget name="MiddleSail" size="1.000000 0.617442" />
+    <ImageTarget name="FrontSail" size="1.000000 0.617442" />
+    <ImageTarget name="Bottom" size="1.000000 0.617442" />
+    <ImageTarget name="Bone" size="1.000000 0.617442" />
+    <ImageTarget name="Board" size="1.000000 0.617442" />
+    <ImageTarget name="BackSail" size="1.000000 0.617442" />
+    <ImageTarget name="WoodBase" size="1.000000 0.617442" />
+    <ImageTarget name="WoodBackWall" size="1.000000 0.617442" />
+    <ImageTarget name="WoodBeam" size="1.000000 0.617442" />
+    <ImageTarget name="WoodDoor" size="1.000000 0.617442" />
+    <ImageTarget name="WoodFrontWall" size="1.000000 0.617442" />
+    <ImageTarget name="WoodRoof" size="1.000000 0.617442" />
+    <ImageTarget name="WoodInnerWall" size="1.000000 0.617442" />
+    <ImageTarget name="WoodWindow" size="1.000000 0.617442" />
+    <ImageTarget name="WoodSideWall" size="1.000000 0.617442" />
+    <ImageTarget name="RoofOfMainBuilding" size="1.000000 0.617442" />
+    <ImageTarget name="PromenadeRoof" size="1.000000 0.617442" />
+    <ImageTarget name="SideHall" size="1.000000 0.617442" />
+    <ImageTarget name="SideRoof" size="1.000000 0.617442" />
+    <ImageTarget name="SideRoom" size="1.000000 0.617442" />
+    <ImageTarget name="TheLongCorridor" size="1.000000 0.617442" />
+    <ImageTarget name="TheMainHall" size="1.000000 0.617442" />
     <ImageTarget name="TopShellOfConcertHall2" size="1.000000 0.617442" />
     <ImageTarget name="TopShellOfConcertHall" size="1.000000 0.617442" />
     <ImageTarget name="TheatreTopShell2" size="1.000000 0.617442" />
