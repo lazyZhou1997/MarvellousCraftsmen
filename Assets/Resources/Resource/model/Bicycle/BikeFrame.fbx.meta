@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: d6d3295cd6251d842835bb0eb9cfb99f
+timeCreated: 1509895743
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCylinder186
+    100004: pCylinder187
+    100006: pCylinder188
+    100008: pCylinder189
+    100010: pCylinder190
+    100012: pCylinder191
+    100014: pCylinder192
+    100016: pCylinder193
+    100018: pCylinder194
+    100020: pCylinder208
+    100022: pCylinder267
+    100024: pCylinder268
+    100026: pCylinder272
+    100028: pCylinder273
+    100030: pCylinder292
+    100032: transform124
+    100034: transform125
+    100036: transform126
+    100038: transform127
+    100040: transform128
+    100042: transform129
+    100044: transform130
+    100046: transform131
+    100048: transform132
+    100050: transform133
+    100052: transform134
+    100054: transform135
+    100056: transform229
+    100058: transform230
+    400000: //RootNode
+    400002: pCylinder186
+    400004: pCylinder187
+    400006: pCylinder188
+    400008: pCylinder189
+    400010: pCylinder190
+    400012: pCylinder191
+    400014: pCylinder192
+    400016: pCylinder193
+    400018: pCylinder194
+    400020: pCylinder208
+    400022: pCylinder267
+    400024: pCylinder268
+    400026: pCylinder272
+    400028: pCylinder273
+    400030: pCylinder292
+    400032: transform124
+    400034: transform125
+    400036: transform126
+    400038: transform127
+    400040: transform128
+    400042: transform129
+    400044: transform130
+    400046: transform131
+    400048: transform132
+    400050: transform133
+    400052: transform134
+    400054: transform135
+    400056: transform229
+    400058: transform230
+    2300000: pCylinder292
+    3300000: pCylinder292
+    4300000: pCylinder292
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn13
+    second: {fileID: 2100000, guid: 1755b6861c32f1c45944de2207f02d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn29
+    second: {fileID: 2100000, guid: 29f548676132e4040861d0c3e514a326, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

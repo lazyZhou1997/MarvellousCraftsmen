@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: a69f37e3eb79c004d91042477e744927
+timeCreated: 1509895882
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pPipe1
+    100004: pPipe2
+    100006: pSphere35
+    100008: pSphere36
+    100010: pSphere37
+    100012: pSphere38
+    100014: pSphere39
+    100016: pSphere40
+    100018: pSphere41
+    100020: pSphere42
+    100022: pSphere43
+    100024: pSphere44
+    100026: pSphere45
+    100028: pSphere46
+    100030: pSphere47
+    100032: pSphere48
+    100034: pSphere49
+    100036: pSphere50
+    100038: pSphere51
+    100040: pSphere52
+    100042: pSphere53
+    100044: pSphere54
+    100046: pSphere55
+    100048: pSphere56
+    100050: pSphere57
+    100052: pSphere58
+    100054: pSphere59
+    100056: pSphere60
+    100058: pSphere61
+    100060: pSphere62
+    100062: pSphere63
+    100064: pSphere64
+    100066: pSphere65
+    100068: pSphere66
+    100070: pSphere67
+    100072: pSphere68
+    100074: transform3890
+    100076: transform3891
+    100078: transform3892
+    100080: transform3893
+    100082: transform3894
+    100084: transform3895
+    100086: transform3896
+    100088: transform3897
+    100090: transform3898
+    100092: transform3899
+    100094: transform3900
+    100096: transform3901
+    100098: transform3902
+    100100: transform3903
+    100102: transform3904
+    100104: transform3905
+    100106: transform3906
+    100108: transform3907
+    100110: transform3908
+    100112: transform3909
+    100114: transform3910
+    100116: transform3911
+    100118: transform3912
+    100120: transform3913
+    100122: transform3914
+    100124: transform3915
+    100126: transform3916
+    100128: transform3917
+    100130: transform3918
+    100132: transform3919
+    100134: transform3920
+    100136: transform3921
+    100138: transform3922
+    100140: transform3923
+    100142: transform3924
+    400000: //RootNode
+    400002: pPipe1
+    400004: pPipe2
+    400006: pSphere35
+    400008: pSphere36
+    400010: pSphere37
+    400012: pSphere38
+    400014: pSphere39
+    400016: pSphere40
+    400018: pSphere41
+    400020: pSphere42
+    400022: pSphere43
+    400024: pSphere44
+    400026: pSphere45
+    400028: pSphere46
+    400030: pSphere47
+    400032: pSphere48
+    400034: pSphere49
+    400036: pSphere50
+    400038: pSphere51
+    400040: pSphere52
+    400042: pSphere53
+    400044: pSphere54
+    400046: pSphere55
+    400048: pSphere56
+    400050: pSphere57
+    400052: pSphere58
+    400054: pSphere59
+    400056: pSphere60
+    400058: pSphere61
+    400060: pSphere62
+    400062: pSphere63
+    400064: pSphere64
+    400066: pSphere65
+    400068: pSphere66
+    400070: pSphere67
+    400072: pSphere68
+    400074: transform3890
+    400076: transform3891
+    400078: transform3892
+    400080: transform3893
+    400082: transform3894
+    400084: transform3895
+    400086: transform3896
+    400088: transform3897
+    400090: transform3898
+    400092: transform3899
+    400094: transform3900
+    400096: transform3901
+    400098: transform3902
+    400100: transform3903
+    400102: transform3904
+    400104: transform3905
+    400106: transform3906
+    400108: transform3907
+    400110: transform3908
+    400112: transform3909
+    400114: transform3910
+    400116: transform3911
+    400118: transform3912
+    400120: transform3913
+    400122: transform3914
+    400124: transform3915
+    400126: transform3916
+    400128: transform3917
+    400130: transform3918
+    400132: transform3919
+    400134: transform3920
+    400136: transform3921
+    400138: transform3922
+    400140: transform3923
+    400142: transform3924
+    2300000: pPipe2
+    3300000: pPipe2
+    4300000: pPipe2
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: 3227f7b07a231314d95f0b74aee71ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 23803d99fdfc25a45800e3ed0f791419, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

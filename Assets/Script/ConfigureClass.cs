@@ -149,6 +149,10 @@ public class ConfigureClass {
         itemsPicturePath.Add("sydney", "Resource\\picture\\ItemBar\\Sydney\\");//悉尼歌剧院
         itemsPicturePath.Add("cabins", "Resource\\picture\\ItemBar\\Cabins\\");//木屋
         itemsPicturePath.Add("library", "Resource\\picture\\ItemBar\\Library\\");//图书馆
+        itemsPicturePath.Add("sailboot", "Resource\\picture\\ItemBar\\Sailboot\\");//帆船
+        itemsPicturePath.Add("jeep", "Resource\\picture\\ItemBar\\Jeep\\");//越野车
+        itemsPicturePath.Add("bicycle", "Resource\\picture\\ItemBar\\Bicycle\\");//自行车
+        itemsPicturePath.Add("carousel", "Resource\\picture\\ItemBar\\Carousel\\");//旋转木马
 
         #endregion
 
@@ -157,6 +161,10 @@ public class ConfigureClass {
         itemsPrefabPath.Add("sydney", "Resource\\prefab\\Sydney\\Collider\\");//悉尼歌剧院
         itemsPrefabPath.Add("cabins", "Resource\\prefab\\Cabins\\Collider\\");//木屋
         itemsPrefabPath.Add("library", "Resource\\prefab\\Library\\Collider\\");//图书馆
+        itemsPrefabPath.Add("sailboot", "Resource\\prefab\\Sailboot\\Collider\\");//帆船
+        itemsPrefabPath.Add("jeep", "Resource\\prefab\\Jeep\\Collider\\");//越野车
+        itemsPrefabPath.Add("bicycle", "Resource\\prefab\\Bicycle\\Collider\\");//自行车
+        itemsPrefabPath.Add("carousel", "Resource\\prefab\\Carousel\\Collider\\");//旋转木马
 
         #endregion
 
@@ -164,7 +172,11 @@ public class ConfigureClass {
 
         stepPath.Add("sydney", "Resource\\prefab\\Sydney\\Step\\");//悉尼歌剧院
         stepPath.Add("cabins", "Resource\\prefab\\Cabins\\Step\\");//木屋
-        stepPath.Add("library", "Resource\\prefab\\Library\\Step\\");//木屋
+        stepPath.Add("library", "Resource\\prefab\\Library\\Step\\");//图书馆
+        stepPath.Add("sailboot", "Resource\\prefab\\Sailboot\\Step\\");//帆船
+        stepPath.Add("jeep", "Resource\\prefab\\Jeep\\Step\\");//越野车
+        stepPath.Add("bicycle", "Resource\\prefab\\Bicycle\\Step\\");//自行车
+        stepPath.Add("carousel", "Resource\\prefab\\Carousel\\Step\\");//旋转木马
 
         #endregion
     }
