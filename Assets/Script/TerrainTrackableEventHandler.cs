@@ -20,6 +20,8 @@ public class TerrainTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
     public DestoryItem destoryItem;//销毁对象类
 
+    public string currentSceneName;//当前场景名
+
     #endregion
 
     #region PRIVATE_MEMBER_VARIABLES
@@ -27,7 +29,7 @@ public class TerrainTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     protected TrackableBehaviour mTrackableBehaviour;
 
     private int _currentCodeOfPuzzle = 1;//当前拼图编号，初始为1
-    private int _endCodeOfPuzzle = ConfigureClass.sydneyStep["end"];//完成时的拼图编号
+    private int _endCodeOfPuzzle;//完成时的拼图编号，在Start方法中被初始化
     private GameObject puzzleResult;//拼图成功后的对象持有
 
 //    private bool b_firstFound = true;//是否是第一次发现目标对象，默认是true，表示是
@@ -37,6 +39,8 @@ public class TerrainTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
     protected virtual void Start()
     {
+        _endCodeOfPuzzle = ConfigureClass.puzzleStep[currentSceneName];//初始化完成时的拼图编号
+
         mTrackableBehaviour = GetComponent<TrackableBehaviour>();
         if (mTrackableBehaviour)
             mTrackableBehaviour.RegisterTrackableEventHandler(this);
@@ -45,6 +49,7 @@ public class TerrainTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
     #endregion // UNTIY_MONOBEHAVIOUR_METHODS
 
     #region PUBLIC_METHODS
+
 
     /// <summary>
     ///     Implementation of the ITrackableEventHandler function called when the
@@ -127,15 +132,15 @@ public class TerrainTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
         Debug.Log("要拼接的物品名称"+name);
         //获得当前激活（选定）的游戏对象对应的拼图编号
-        int codeOfPuzzle = ConfigureClass.sydneyStep[name];
+        int codeOfPuzzle = ConfigureClass.puzzleStep[name];
         //对比编号
 
         if (_currentCodeOfPuzzle==codeOfPuzzle)//编号满足，则拼接成功，拼图成功
         {
             //加载新的拼图结果
             GameObject tempGameObject =
-                LoadUtils.LoadPrefabFromResources(ConfigureClass.sydneyStepPath + _currentCodeOfPuzzle);
-            Debug.Log("要实例化的对象"+ ConfigureClass.sydneyStepPath + _currentCodeOfPuzzle);
+                LoadUtils.LoadPrefabFromResources(ConfigureClass.stepPath[currentSceneName] + _currentCodeOfPuzzle);
+            Debug.Log("要实例化的对象"+ ConfigureClass.stepPath[currentSceneName] + _currentCodeOfPuzzle);
             //实例化拼图结果
             tempGameObject = Instantiate(tempGameObject);
 

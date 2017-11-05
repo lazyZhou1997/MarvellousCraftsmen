@@ -8,14 +8,13 @@ public class ConfigureClass {
 
     #region 资源文件路径信息
 
-    #region sydney
+    public static Dictionary<string, string> itemsPicturePath = new Dictionary<string, string>();//存储所有物品图片路径信息，key为场景，值为路径
+    public static Dictionary<string, string> itemsPrefabPath = new Dictionary<string, string>();//存储所有物品Prefab路径信息，key为场景，值为路径
+    public static Dictionary<string, string> stepPath = new Dictionary<string, string>();//存储拼图结果预设体地址，key为场景，值为路径
 
-    public static string sydneyItemsPicturePath = "Resource\\picture\\ItemBar\\Sydney\\";//悉尼歌剧院的物品图片存储地址  
-    public static string sydneyItemsPrefabPath = "Resource\\prefab\\Sydney\\Collider\\";//悉尼歌剧院的Prefab存储地址
+
     public static string item_boxPicturePath = "Resource\\picture\\item_box";//物品栏中表示物品为空的图片
-    public static string sydneyStepPath = "Resource\\prefab\\Sydney\\Step\\";//悉尼歌剧院的拼图结果预设体地址
 
-    #endregion
     #endregion
 
     #region 保存下一个要加载的场景名称
@@ -25,7 +24,7 @@ public class ConfigureClass {
     #endregion
     #region 拼图步骤
 
-    public static Dictionary<string,int> sydneyStep = new Dictionary<string, int>();//悉尼歌剧院拼图步骤
+    public static Dictionary<string,int> puzzleStep = new Dictionary<string, int>();//悉尼歌剧院拼图步骤
 
     #endregion
 
@@ -40,17 +39,45 @@ public class ConfigureClass {
     {
         #region Sydney拼图步骤初始化
 
-        sydneyStep.Add("OperaHouseBase", 1);
-        sydneyStep.Add("TheaterFirstFloor", 2);
-        sydneyStep.Add("ConcertFirstFloor", 3);
-        sydneyStep.Add("ConcertSecondFloor", 4);
-        sydneyStep.Add("OperaMainHall", 5);
-        sydneyStep.Add("TheaterTopShell", 6);
-        sydneyStep.Add("TopShellOfConcertHall", 7);
-        sydneyStep.Add("TheaterTopShell2", 8);
-        sydneyStep.Add("TopShellOfConcertHall2", 9);
-        sydneyStep.Add("RestaurantTopShell", 10);
-        sydneyStep.Add("end", 10);
+        puzzleStep.Add("OperaHouseBase", 1);
+        puzzleStep.Add("TheaterFirstFloor", 2);
+        puzzleStep.Add("ConcertFirstFloor", 3);
+        puzzleStep.Add("ConcertSecondFloor", 4);
+        puzzleStep.Add("OperaMainHall", 5);
+        puzzleStep.Add("TheaterTopShell", 6);
+        puzzleStep.Add("TopShellOfConcertHall", 7);
+        puzzleStep.Add("TheaterTopShell2", 8);
+        puzzleStep.Add("TopShellOfConcertHall2", 9);
+        puzzleStep.Add("RestaurantTopShell", 10);
+        puzzleStep.Add("sydney", 10);//拼图结束
+
+        #endregion
+
+        #region Cabins拼图步骤初始化
+
+        puzzleStep.Add("Base", 1);
+        puzzleStep.Add("FrontWall", 2);
+        puzzleStep.Add("BackWall", 3);
+        puzzleStep.Add("SideWall", 4);
+        puzzleStep.Add("InnerWall", 5);
+        puzzleStep.Add("Window", 6);
+        puzzleStep.Add("Door", 7);
+        puzzleStep.Add("Beam", 8);
+        puzzleStep.Add("Roof", 9);
+        puzzleStep.Add("cabins", 9);//拼图结束
+
+        #endregion
+
+        #region Library拼图步骤初始化
+
+        puzzleStep.Add("SideRoom", 1);
+        puzzleStep.Add("SideRoof", 2);
+        puzzleStep.Add("TheLongCorridor", 3);
+        puzzleStep.Add("PromenadeRoof", 4);
+        puzzleStep.Add("TheMainHall", 5);
+        puzzleStep.Add("RoofOfMainBuilding", 6);
+        puzzleStep.Add("SideHall", 7);
+        puzzleStep.Add("library", 7);//拼图结束
 
         #endregion
 
@@ -116,5 +143,30 @@ public class ConfigureClass {
         };
 
         #endregion
+
+        #region 初始化所有物品图片路径信息
+
+        itemsPicturePath.Add("sydney", "Resource\\picture\\ItemBar\\Sydney\\");//悉尼歌剧院
+        itemsPicturePath.Add("cabins", "Resource\\picture\\ItemBar\\Cabins\\");//木屋
+        itemsPicturePath.Add("library", "Resource\\picture\\ItemBar\\Library\\");//图书馆
+
+        #endregion
+
+        #region 初始化所有物品Prefab路径信息
+
+        itemsPrefabPath.Add("sydney", "Resource\\prefab\\Sydney\\Collider\\");//悉尼歌剧院
+        itemsPrefabPath.Add("cabins", "Resource\\prefab\\Cabins\\Collider\\");//木屋
+        itemsPrefabPath.Add("library", "Resource\\prefab\\Library\\Collider\\");//图书馆
+
+        #endregion
+
+        #region 初始化拼图结果预设体地址
+
+        stepPath.Add("sydney", "Resource\\prefab\\Sydney\\Step\\");//悉尼歌剧院
+        stepPath.Add("cabins", "Resource\\prefab\\Cabins\\Step\\");//木屋
+        stepPath.Add("library", "Resource\\prefab\\Library\\Step\\");//木屋
+
+        #endregion
     }
+
 }

@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 
@@ -14,7 +15,7 @@ public class CatchAModel : MonoBehaviour
     public Image[] itemImages = new Image[5];
     #endregion
 
-
+    public string currentScenceName;//当前场景名
 
     public CurrentSenceDataShare currentSenceDataShare;//当前场景中的共享数据类
 
@@ -79,7 +80,7 @@ public class CatchAModel : MonoBehaviour
         Debug.Log("items[position]中是："+items[position]);
         //卸载当前模型,将不再能够检测到改模型的状态
         GameObject currentModel = GameObject.Find(items[position]);
-        currentModel.SetActive(false);//TODO:有错
+        currentModel.SetActive(false);
         
         //将当前模型的引用进行保存，方便之后恢复
         targetsSetDisactive.Add(items[position],currentModel);//参数一是要取消激活模型的名称，参数二是具体引用
@@ -90,14 +91,14 @@ public class CatchAModel : MonoBehaviour
         
         #region 完成物品栏中图片的加载
         //加载itemName对应的图片资源
-        itemSprite = LoadUtils.LoadSpriteFromResources(ConfigureClass.sydneyItemsPicturePath + items[position]);
+        itemSprite = LoadUtils.LoadSpriteFromResources(ConfigureClass.itemsPicturePath[currentScenceName] + items[position]);
         //将Sprite图片加载到物品栏上,itemImages是对物品栏上的图片框的引用
         itemImages[position].sprite = itemSprite;
         #endregion
 
         #region 完成物品栏中对象的加载
         //加载对应的prefab对象,实例化预设体
-        itemGameObject = LoadUtils.LoadPrefabFromResources(ConfigureClass.sydneyItemsPrefabPath + items[position]);
+        itemGameObject = LoadUtils.LoadPrefabFromResources(ConfigureClass.itemsPrefabPath[currentScenceName] + items[position]);
         Debug.Log("加载对象" + items[position]);
         itemGameObject = Instantiate(itemGameObject) as GameObject;
         //添加到当前物品栏中对象集合中

@@ -39,7 +39,7 @@ public class DestoryItem : MonoBehaviour {
         #region 将图片数组中的图片换成item_box
 
         //销毁原来的精灵图片
-        DestroyImmediate(images[activeIndex].sprite); 
+        //DestroyImmediate(images[activeIndex].sprite); 
         //将该图片换成item_box
         images[activeIndex].sprite = LoadUtils.LoadSpriteFromResources(ConfigureClass.item_boxPicturePath);//从Resources文件夹下加载
 
