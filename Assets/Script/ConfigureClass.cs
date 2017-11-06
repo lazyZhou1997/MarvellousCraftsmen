@@ -91,11 +91,24 @@ public class ConfigureClass {
         puzzleStep.Add("BackSail", 6);
         puzzleStep.Add("sailboat", 6);//拼图结束
 
-        #endregion
+		#endregion
 
-        #region 初始化对话内容
+		#region Carousel拼图步骤初始化
 
-        string[] oneDialog;
+		puzzleStep.Add("LandBase", 1);
+		puzzleStep.Add("MiddleColumn", 2);
+		puzzleStep.Add("HorseDOWN", 3);
+		puzzleStep.Add("HorseUP", 4);
+		puzzleStep.Add("RoofDecoration", 5);
+		puzzleStep.Add("Orbit", 6);
+		puzzleStep.Add("Umbrella", 7);
+        puzzleStep.Add("carousel", 7);//拼图结束
+
+		#endregion
+
+		#region 初始化对话内容
+
+		string[] oneDialog;
         //加载悉尼歌剧院对话
         oneDialog = new[]
         {
