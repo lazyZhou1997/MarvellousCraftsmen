@@ -2,10 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71400728-1476-43a4-9f9e-40e5261b6957" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Temp.meta" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/bicycle.unity" afterPath="$PROJECT_DIR$/Assets/scene/bicycle.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/jeep.unity" afterPath="$PROJECT_DIR$/Assets/scene/jeep.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" afterPath="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/ConcertFirstFloor_scaled.jpg" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/ConcertFirstFloor_scaled.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/ConcertSecondFloor_scaled.jpg" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/ConcertSecondFloor_scaled.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/OperaHouseBase_scaled.jpg" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/OperaHouseBase_scaled.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/OperaMainHall_scaled.jpg" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/OperaMainHall_scaled.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/RestaurantTopShell_scaled.jpg" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/RestaurantTopShell_scaled.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheaterFirstFloor_scaled.jpg" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheaterFirstFloor_scaled.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheatreTopShell2_scaled.jpg" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheatreTopShell2_scaled.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TopShellOfConcertHall_scaled.jpg" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TopShellOfConcertHall_scaled.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/MarvellousCraftsmen.dat" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/MarvellousCraftsmen.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BackDoor_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BackDoor_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BackPivot_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BackPivot_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BackSail_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BackSail_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BikeFrame_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BikeFrame_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BikeWheel_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BikeWheel_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Board_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Board_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Bone_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Bone_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Bottom_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Bottom_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BrakeDisc_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/BrakeDisc_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/CarBase_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/CarBase_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/CarShell_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/CarShell_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Chain_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Chain_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/ConcertFirstFloor_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/ConcertFirstFloor_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/ConcertSecondFloor_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/ConcertSecondFloor_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Engine_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Engine_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FootBoard_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FootBoard_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FrontDoor_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FrontDoor_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FrontFork_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FrontFork_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FrontPivot_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FrontPivot_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FrontSail_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/FrontSail_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/HandleBar_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/HandleBar_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/HorseDOWN_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/HorseDOWN_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/HorseUP_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/HorseUP_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/LandBase_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/LandBase_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/MiddleColumn_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/MiddleColumn_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/MiddleSail_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/MiddleSail_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/OperaHouseBase_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/OperaHouseBase_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/OperaMainHall_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/OperaMainHall_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Orbit_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Orbit_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/PromenadeRoof_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/PromenadeRoof_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/RestaurantTopShell_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/RestaurantTopShell_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/RoofDecoration_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/RoofDecoration_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/RoofOfMainBuilding_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/RoofOfMainBuilding_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Saddle_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Saddle_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Seat_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Seat_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/SideHall_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/SideHall_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/SideRoof_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/SideRoof_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/SideRoom_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/SideRoom_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheLongCorridor_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheLongCorridor_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheMainHall_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheMainHall_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheaterFirstFloor_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheaterFirstFloor_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheatreTopShell2_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheatreTopShell2_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheatreTopShell_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TheatreTopShell_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TopShellOfConcertHall2_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TopShellOfConcertHall2_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TopShellOfConcertHall_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/TopShellOfConcertHall_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Umbrella_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Umbrella_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Wheel_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/Wheel_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodBackWall_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodBackWall_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodBase_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodBase_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodBeam_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodBeam_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodDoor_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodDoor_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodFrontWall_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodFrontWall_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodInnerWall_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodInnerWall_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodRoof_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodRoof_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodSideWall_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodSideWall_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodWindow_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/WoodWindow_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/terrainPic_scaled.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/MarvellousCraftsmen/terrainPic_scaled.jpg.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/MarvellousCraftsmen.dat.meta" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/MarvellousCraftsmen.dat.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/MarvellousCraftsmen.xml" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/MarvellousCraftsmen.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/MarvellousCraftsmen.xml.meta" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/MarvellousCraftsmen.xml.meta" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +84,7 @@
       <file leaf-file-name="ConfigureClass.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3616">
+            <state relative-caret-position="-5236">
               <caret line="110" column="32" lean-forward="false" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
               <folding>
                 <marker date="1509981311676" expanded="false" signature="6:59" ph="..." />
@@ -76,7 +141,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="135" />
     <option name="width" value="1440" />
@@ -161,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509977029417</updated>
       <workItem from="1509977033641" duration="91000" />
-      <workItem from="1509977151777" duration="2524000" />
+      <workItem from="1509977151777" duration="2788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2615000" />
+    <option name="totallyTimeSpent" value="2879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,8 +243,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -253,7 +317,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3616">
+        <state relative-caret-position="-5236">
           <caret line="110" column="32" lean-forward="false" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
           <folding>
             <marker date="1509981311676" expanded="false" signature="6:59" ph="..." />
