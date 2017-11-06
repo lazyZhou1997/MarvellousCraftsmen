@@ -81,6 +81,18 @@ public class ConfigureClass {
 
         #endregion
 
+        #region SailBoat拼图步骤初始化
+
+        puzzleStep.Add("Bottom", 1);
+        puzzleStep.Add("Bone", 2);
+        puzzleStep.Add("Board", 3);
+        puzzleStep.Add("FrontSail", 4);
+        puzzleStep.Add("MiddleSail", 5);
+        puzzleStep.Add("BackSail", 6);
+        puzzleStep.Add("sailboat", 6);//拼图结束
+
+        #endregion
+
         #region 初始化对话内容
 
         string[] oneDialog;
