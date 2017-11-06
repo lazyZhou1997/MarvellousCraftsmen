@@ -33,6 +33,12 @@ public class ConfigureClass {
     public static Dictionary<string, string[]> dialogs = new Dictionary<string, string[]>();
 
     #endregion
+    
+    #region 模型介绍
+
+    public static Dictionary<string,string> descriptions=new Dictionary<string, string>();
+
+    #endregion
 
     //静态构造函数，完成必要的初始化
     static ConfigureClass()
@@ -164,9 +170,71 @@ public class ConfigureClass {
         //加载自行车对话
         oneDialog = new[]
         {
-            ""
-        };
+            "奇奇：“现在的当务之急就是要寻找重建飞船的线索，这个地方这么大，好像跑来跑去比较耽误时间。”",
+            "居民：“我们这里倒是会提供免费的自行车，就是它们散落在各个地方，而且随时可能会被其他人骑走。要不你们去自行车行看看有没有合意的吧。”",
+            "奇奇：“啊，既然如此那我们自己组装一辆自行车吧！自己动手丰衣足食嘛。”",
+            "居民：“很有道理。我帮你们找需要的材料吧。”",
+            "奇奇：“非常感谢。”"
 
+        };
+        dialogs.Add("bicycle",oneDialog);
+        
+        //加载吉普车对话
+        oneDialog = new[]
+        {
+            "居民：“你们上次的自行车使用体验还好吗？”",
+            "奇奇：“挺好的，感觉做的很成功。”",
+            "居民：“是这样，最近部队想运输一批物资，但是吉普车数量不够了，听说你们要出发寻找飞船材料，可不可以帮我们也找一找制造吉普车的材料呢？”",
+            "奇奇：“没问题，交给我们吧。”"
+
+        };
+        dialogs.Add("jeep",oneDialog);
+        
+        //加载旋转木马对话
+        oneDialog = new[]
+        {
+            "奇奇：“相别多日，这里一切还好吗？”",
+            "村长：“感谢你们上次的帮助，现在大家的娱乐休闲活动比以前更多了，真的非常感谢你们。”",
+            "奇奇：“这也是为了报答村长你们在我们需要帮助的时候收留了我们。这次来我们也准备了一个新的礼物想要送给村子呢。”"
+
+        };
+        dialogs.Add("carousel",oneDialog);
+
+        #endregion
+        
+        #region 模型介绍
+
+        string itemDescription;
+
+        //加载悉尼歌剧院的介绍
+        itemDescription ="悉尼歌剧院是一个地球上的著名建筑，歌剧或者其它形式的行为艺术在其中进行表演。世界各地均有歌剧院，且具有各自不同的建筑风格。";
+
+        descriptions.Add("sydney",itemDescription);
+
+        //加载小木屋介绍
+        itemDescription="房屋是住人或存放东西的建筑物。房屋是家庭的基体，房屋是人类生存的寄托，在这里人们可以避开外界一切干扰，和自己的亲人享受自由自在的生活。这种以房屋为本的思想深深的影响着人们，人们都为拥有自己的房屋而努力。";
+        descriptions.Add("cabins",itemDescription);
+
+        //加载图书馆介绍
+        itemDescription="图书馆，是搜集、整理、收藏图书资料以供人阅览、参考的机构，早在公元前3000年就出现了图书馆，图书馆有保存人类文化遗产、开发信息资源、参与社会教育等职能。";
+        descriptions.Add("library",itemDescription);
+
+        //加载帆船介绍
+        itemDescription="船指的是：举凡利用水的浮力，依靠人力、风帆、发动机（如蒸气机、燃气涡轮、柴油引擎、核子动力机组）等动力，牵、拉、推、划、或推动螺旋桨、高压喷嘴，使能在水上移动的交通运输工具。";
+        descriptions.Add("sailboat",itemDescription);
+
+        //加载自行车介绍
+        itemDescription="自行车，又称脚踏车或单车，通常是二轮的小型陆上车辆。人骑上车后，以脚踩踏板为动力，是绿色环保的交通工具。";
+        descriptions.Add("bicycle",itemDescription);
+
+        //加载吉普车介绍
+        itemDescription="吉普车是越野车的一种，是四轮驱动，稳定性良好的车型。越野车有军用民用两种，作为军用是最普遍的。其他还有专用越野拖炮车，越野测量车等。民用越野车，吉普车也是最常用的。另外还有越野地质探矿车、民用越野敞蓬车等。";
+        descriptions.Add("jeep",itemDescription);
+
+        //加载旋转木马介绍
+        itemDescription="旋转木马或回转木马游乐场机动游戏的一种，即旋转大平台上有装饰成木马且上下移动的座位供游客乘坐。如今在各大小游戏场、商场等地方皆有各式旋转木马。";
+        descriptions.Add("carousel",itemDescription);
+        
         #endregion
 
         #region 初始化所有物品图片路径信息
