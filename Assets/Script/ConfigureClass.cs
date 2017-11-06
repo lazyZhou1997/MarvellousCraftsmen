@@ -99,6 +99,35 @@ public class ConfigureClass {
 
 		#endregion
 
+        #region Jeep拼图步骤初始化
+
+        puzzleStep.Add("CarBase", 1);
+        puzzleStep.Add("Wheel", 2);
+        puzzleStep.Add("Engine", 3);
+        puzzleStep.Add("Seat", 4);
+        puzzleStep.Add("CarShell", 5);
+        puzzleStep.Add("FrontDoor", 6);
+        puzzleStep.Add("BackDoor", 7);
+        puzzleStep.Add("jeep", 7);//拼图结束
+
+        #endregion
+
+        #region Bicycle拼图步骤初始化
+
+        puzzleStep.Add("BikeFrame", 1);
+        puzzleStep.Add("HandleBar", 2);
+        puzzleStep.Add("Saddle", 3);
+        puzzleStep.Add("BackPivot", 4);
+        puzzleStep.Add("BrakeDisc", 5);
+        puzzleStep.Add("Chain", 6);
+        puzzleStep.Add("FootBoard", 7);
+        puzzleStep.Add("FrontFork", 8);
+        puzzleStep.Add("FrontPivot", 9);
+        puzzleStep.Add("BikeWheel", 10);
+        puzzleStep.Add("bicycle", 10);//拼图结束
+
+		#endregion
+
 		#region Carousel拼图步骤初始化
 
 		puzzleStep.Add("LandBase", 1);

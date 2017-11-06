@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_MarvellousCraftsmen.1501282261.00" t="ExcludeRecursive" />
+    <e p="F:\unity\MarvellousCraftsmen" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BackGroudMusicController.cs" t="Include" />
+        <e p="introbutton.cs" t="Include" />
+        <e p="license_3rdpartynotice.txt" t="Include" />
+        <e p="link.xml" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="readme_SDK.txt" t="Include" />
+        <e p="Script" t="Include">
+          <e p="AutoChangeScene.cs" t="Include" />
+          <e p="BallRotateScript.cs" t="Include" />
+          <e p="ButtonPressed.cs" t="Include" />
+          <e p="CatchAModel.cs" t="Include" />
+          <e p="ClickSoundButton.cs" t="Include" />
+          <e p="ConfigureClass.cs" t="Include" />
+          <e p="CurrentItemChoiced.cs" t="Include" />
+          <e p="CurrentSenceDataShare.cs" t="Include" />
+          <e p="DestoryItem.cs" t="Include" />
+          <e p="Dialogue.cs" t="Include" />
+          <e p="DisassociateScrip.cs" t="Include" />
+          <e p="InitilizatinARScript.cs" t="Include" />
+          <e p="InitilizatinScript.cs" t="Include" />
+          <e p="LoadingAsyn.cs" t="Include" />
+          <e p="LoadSceneScript.cs" t="Include" />
+          <e p="LoadUtils.cs" t="Include" />
+          <e p="PanelListener.cs" t="Include" />
+          <e p="PlayGameMusic.cs" t="Include" />
+          <e p="QuitButtonListener.cs" t="Include" />
+          <e p="QuitGame.cs" t="Include" />
+          <e p="ScaleAndRotate.cs" t="Include" />
+          <e p="SplashLoad.cs" t="Include" />
+          <e p="TerrainTrackableEventHandler.cs" t="Include" />
+          <e p="TestScript.cs" t="Include" />
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="MarvellousCraftsmen.xml" t="Include" />
+          </e>
+        </e>
+        <e p="Vuforia" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="OpenSourceInitializer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="DefaultInitializationErrorHandler.cs" t="Include" />
+            <e p="DefaultSmartTerrainEventHandler.cs" t="Include" />
+            <e p="DefaultTrackableEventHandler.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="BrightTexture.shader" t="Include" />
+            <e p="ColoredLines.shader" t="Include" />
+            <e p="DepthMask.shader" t="Include" />
+            <e p="Text3D.shader" t="Include" />
+            <e p="VertexLitWithZ.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="MarvellousCraftsmen.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
