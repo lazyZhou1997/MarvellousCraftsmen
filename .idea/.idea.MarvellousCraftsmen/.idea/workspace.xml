@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71400728-1476-43a4-9f9e-40e5261b6957" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/selectstageC1.unity" afterPath="$PROJECT_DIR$/Assets/scene/selectstageC1.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/selectstageC2.unity" afterPath="$PROJECT_DIR$/Assets/scene/selectstageC2.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/selectstageC3.unity" afterPath="$PROJECT_DIR$/Assets/scene/selectstageC3.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="71400728-1476-43a4-9f9e-40e5261b6957" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3168">
-              <caret line="122" column="39" lean-forward="true" selection-start-line="122" selection-start-column="39" selection-end-line="122" selection-end-column="39" />
+              <caret line="122" column="39" lean-forward="false" selection-start-line="122" selection-start-column="39" selection-end-line="122" selection-end-column="39" />
               <folding>
                 <marker date="1509981311676" expanded="false" signature="6:59" ph="..." />
                 <marker date="1509981311676" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
@@ -163,12 +157,12 @@
       <updated>1509977029417</updated>
       <workItem from="1509977033641" duration="91000" />
       <workItem from="1509977151777" duration="2788000" />
-      <workItem from="1510018810179" duration="281000" />
+      <workItem from="1510018810179" duration="629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3160000" />
+    <option name="totallyTimeSpent" value="3508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,7 +287,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3168">
-          <caret line="122" column="39" lean-forward="true" selection-start-line="122" selection-start-column="39" selection-end-line="122" selection-end-column="39" />
+          <caret line="122" column="39" lean-forward="false" selection-start-line="122" selection-start-column="39" selection-end-line="122" selection-end-column="39" />
           <folding>
             <marker date="1509981311676" expanded="false" signature="6:59" ph="..." />
             <marker date="1509981311676" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />

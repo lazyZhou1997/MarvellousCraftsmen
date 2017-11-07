@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="TheatreTopShell2" size="1.000000 0.617442" />
-    <ImageTarget name="TheaterFirstFloor" size="1.000000 0.617442" />
-    <ImageTarget name="TopShellOfConcertHall" size="1.000000 0.617442" />
-    <ImageTarget name="TopShellOfConcertHall2" size="1.000000 0.617442" />
-    <ImageTarget name="RestaurantTopShell" size="1.000000 0.617442" />
-    <ImageTarget name="ConcertSecondFloor" size="1.000000 0.617442" />
-    <ImageTarget name="OperaHouseBase" size="1.000000 0.617442" />
-    <ImageTarget name="ConcertFirstFloor" size="1.000000 0.617442" />
-    <ImageTarget name="OperaMainHall" size="1.000000 0.617442" />
     <ImageTarget name="Saddle" size="1.000000 0.617442" />
     <ImageTarget name="HandleBar" size="1.000000 0.617442" />
     <ImageTarget name="FrontPivot" size="1.000000 0.617442" />
@@ -56,6 +47,15 @@
     <ImageTarget name="SideRoom" size="1.000000 0.617442" />
     <ImageTarget name="TheLongCorridor" size="1.000000 0.617442" />
     <ImageTarget name="TheMainHall" size="1.000000 0.617442" />
+    <ImageTarget name="TheatreTopShell2" size="1.000000 0.617442" />
+    <ImageTarget name="TheaterFirstFloor" size="1.000000 0.617442" />
+    <ImageTarget name="TopShellOfConcertHall" size="1.000000 0.617442" />
+    <ImageTarget name="TopShellOfConcertHall2" size="1.000000 0.617442" />
+    <ImageTarget name="RestaurantTopShell" size="1.000000 0.617442" />
+    <ImageTarget name="ConcertSecondFloor" size="1.000000 0.617442" />
+    <ImageTarget name="OperaHouseBase" size="1.000000 0.617442" />
+    <ImageTarget name="ConcertFirstFloor" size="1.000000 0.617442" />
+    <ImageTarget name="OperaMainHall" size="1.000000 0.617442" />
     <ImageTarget name="TheatreTopShell" size="1.000000 0.617442" />
     <ImageTarget name="terrainPic" size="1.000000 0.617442" />
   </Tracking>
