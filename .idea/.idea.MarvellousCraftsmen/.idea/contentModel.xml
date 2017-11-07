@@ -11,6 +11,7 @@
         <e p="introbutton.cs" t="Include" />
         <e p="license_3rdpartynotice.txt" t="Include" />
         <e p="link.xml" t="Include" />
+        <e p="ModelToShowInRepository.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="Editor" t="Include">
             <e p="JetBrains" t="Include">
@@ -32,7 +33,6 @@
           <e p="Dialogue.cs" t="Include" />
           <e p="DisassociateScrip.cs" t="Include" />
           <e p="InitilizatinARScript.cs" t="Include" />
-          <e p="InitilizatinScript.cs" t="Include" />
           <e p="LoadDialogOfCurrentScene.cs" t="Include" />
           <e p="LoadingAsyn.cs" t="Include" />
           <e p="LoadIntroductionOfCurrentScene.cs" t="Include" />
@@ -43,6 +43,7 @@
           <e p="QuitButtonListener.cs" t="Include" />
           <e p="QuitGame.cs" t="Include" />
           <e p="ScaleAndRotate.cs" t="Include" />
+          <e p="ShowRepository.cs" t="Include" />
           <e p="SplashLoad.cs" t="Include" />
           <e p="TerrainTrackableEventHandler.cs" t="Include" />
           <e p="TestScript.cs" t="Include" />

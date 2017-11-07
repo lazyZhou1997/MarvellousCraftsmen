@@ -19,7 +19,13 @@ public class ConfigureClass {
 
     #region 保存下一个要加载的场景名称
 
-    public static string nextSceneName = "cabins";
+    public static string nextSceneName;
+
+    #endregion
+
+    #region 保存仓库场景中要显示的模型的名字
+
+    public static string showModelInRepository = "sydney";
 
     #endregion
     #region 拼图步骤
@@ -287,7 +293,7 @@ public class ConfigureClass {
         itemsPrefabPath.Add("jeep", "Resource\\prefab\\Jeep\\Collider\\");//越野车
         itemsPrefabPath.Add("bicycle", "Resource\\prefab\\Bicycle\\Collider\\");//自行车
         itemsPrefabPath.Add("carousel", "Resource\\prefab\\Carousel\\Collider\\");//旋转木马
-        itemsPrefabPath.Add("result", "Resource\\prefab\\Result\\");//旋转木马
+        itemsPrefabPath.Add("result", "Resource\\prefab\\Result\\");//仓库中的物品
 
         #endregion
 
