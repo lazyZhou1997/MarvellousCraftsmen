@@ -9,7 +9,7 @@ public class LoadSceneScript : MonoBehaviour {
     public void LoadScene(string sceneName){
         ConfigureClass.nextSceneName = sceneName;
         //加载下一个场景
-        SceneManager.LoadScene("transition");
+        SceneManager.LoadScene("dialogueScene");
     }
 
     public void LoadSceneDirectory(string sceneName)

@@ -32,7 +32,7 @@
           <e p="Dialogue.cs" t="Include" />
           <e p="DisassociateScrip.cs" t="Include" />
           <e p="InitilizatinARScript.cs" t="Include" />
-          <e p="InitilizatinScript.cs" t="Include" />
+          <e p="LoadDialogOfCurrentScene.cs" t="Include" />
           <e p="LoadingAsyn.cs" t="Include" />
           <e p="LoadIntroductionOfCurrentScene.cs" t="Include" />
           <e p="LoadSceneScript.cs" t="Include" />

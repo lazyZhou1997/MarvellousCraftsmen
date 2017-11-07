@@ -19,7 +19,7 @@ public class ConfigureClass {
 
     #region 保存下一个要加载的场景名称
 
-    public static string nextSceneName;
+    public static string nextSceneName = "cabins";
 
     #endregion
     #region 拼图步骤
