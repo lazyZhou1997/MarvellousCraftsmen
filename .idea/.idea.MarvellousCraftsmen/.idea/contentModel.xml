@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_MarvellousCraftsmen.558175660.00" t="ExcludeRecursive" />
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+    <e p="C:\Users\Admin\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_MarvellousCraftsmen.1501282261.00" t="ExcludeRecursive" />
+    <e p="F:\unity\MarvellousCraftsmen" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
@@ -32,6 +32,7 @@
           <e p="Dialogue.cs" t="Include" />
           <e p="DisassociateScrip.cs" t="Include" />
           <e p="InitilizatinARScript.cs" t="Include" />
+          <e p="InitilizatinScript.cs" t="Include" />
           <e p="LoadDialogOfCurrentScene.cs" t="Include" />
           <e p="LoadingAsyn.cs" t="Include" />
           <e p="LoadIntroductionOfCurrentScene.cs" t="Include" />
