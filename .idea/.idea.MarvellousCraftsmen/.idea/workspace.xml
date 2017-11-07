@@ -4,20 +4,6 @@
     <list default="true" id="71400728-1476-43a4-9f9e-40e5261b6957" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Script/InitilizatinScript.cs" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Script/InitilizatinScript.cs.meta" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/bicycle.unity" afterPath="$PROJECT_DIR$/Assets/scene/bicycle.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/cabins.unity" afterPath="$PROJECT_DIR$/Assets/scene/cabins.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/carousel.unity" afterPath="$PROJECT_DIR$/Assets/scene/carousel.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/dialogueScene.unity" afterPath="$PROJECT_DIR$/Assets/scene/dialogueScene.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/jeep.unity" afterPath="$PROJECT_DIR$/Assets/scene/jeep.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/library.unity" afterPath="$PROJECT_DIR$/Assets/scene/library.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/sailboat.unity" afterPath="$PROJECT_DIR$/Assets/scene/sailboat.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/sydney.unity" afterPath="$PROJECT_DIR$/Assets/scene/sydney.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/contentModel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" afterPath="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentScene.cs" afterPath="$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentScene.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentScene.cs.meta" afterPath="$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentScene.cs.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/LoadSceneScript.cs" afterPath="$PROJECT_DIR$/Assets/Script/LoadSceneScript.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,8 +56,8 @@
       <file leaf-file-name="LoadSceneScript.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Script/LoadSceneScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="384">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <marker date="1510039767000" expanded="false" signature="6:113" ph="..." />
                 <marker date="1510039767000" expanded="true" signature="160:455" ph="{...}" />
@@ -255,12 +241,12 @@
       <workItem from="1509977033641" duration="91000" />
       <workItem from="1509977151777" duration="2788000" />
       <workItem from="1510018810179" duration="1358000" />
-      <workItem from="1510032030381" duration="6481000" />
+      <workItem from="1510032030381" duration="6636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10718000" />
+    <option name="totallyTimeSpent" value="10873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,7 +259,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -580,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/LoadSceneScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="384">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <marker date="1510039767000" expanded="false" signature="6:113" ph="..." />
             <marker date="1510039767000" expanded="true" signature="160:455" ph="{...}" />
