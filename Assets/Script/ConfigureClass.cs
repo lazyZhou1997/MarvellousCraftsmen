@@ -287,6 +287,7 @@ public class ConfigureClass {
         itemsPrefabPath.Add("jeep", "Resource\\prefab\\Jeep\\Collider\\");//越野车
         itemsPrefabPath.Add("bicycle", "Resource\\prefab\\Bicycle\\Collider\\");//自行车
         itemsPrefabPath.Add("carousel", "Resource\\prefab\\Carousel\\Collider\\");//旋转木马
+        itemsPrefabPath.Add("result", "Resource\\prefab\\Result\\");//旋转木马
 
         #endregion
 
