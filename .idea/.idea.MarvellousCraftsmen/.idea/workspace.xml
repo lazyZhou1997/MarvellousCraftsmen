@@ -1,7 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71400728-1476-43a4-9f9e-40e5261b6957" name="Default" comment="" />
+    <list default="true" id="71400728-1476-43a4-9f9e-40e5261b6957" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BackPivot.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BackPivot.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BikeFrame.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BikeFrame.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BikeWheel.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BikeWheel.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BrakeDisc.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BrakeDisc.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/Chain.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/Chain.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FootBoard.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FootBoard.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FrontFork.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FrontFork.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FrontPivot.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FrontPivot.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/HandleBar.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/HandleBar.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/Saddle.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/Saddle.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/1.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/1.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/10.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/10.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/2.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/2.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/3.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/3.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/4.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/4.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/5.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/5.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/6.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/6.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/7.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/7.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/8.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/8.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/9.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Step/9.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/BackWall.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/BackWall.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Base.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Base.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Beam.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Beam.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Door.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Door.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/FrontWall.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/FrontWall.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/InnerWall.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/InnerWall.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Roof.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Roof.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/SideWall.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/SideWall.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Window.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Window.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/1.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/1.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/2.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/2.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/3.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/3.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/4.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/4.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/5.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/5.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/6.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/6.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/7.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/7.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/8.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/8.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/9.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Step/9.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseDOWN.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseDOWN.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseUP.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseUP.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/LandBase.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/LandBase.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/MiddleColumn.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/MiddleColumn.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Orbit.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Orbit.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/RoofDecoration.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/RoofDecoration.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Umbrella.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Umbrella.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/1.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/1.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/2.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/2.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/3.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/3.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/4.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/4.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/5.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/5.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/6.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/6.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/7.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/7.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/BackDoor.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/BackDoor.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/CarBase.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/CarBase.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/CarShell.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/CarShell.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/Engine.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/Engine.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/FrontDoor.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/FrontDoor.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/Seat.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/Seat.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/Wheel.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/Wheel.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/1.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/1.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/2.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/2.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/3.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/3.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/4.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/4.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/5.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/5.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/6.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/6.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/7.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Step/7.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/PromenadeRoof.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/PromenadeRoof.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/RoofOfMainBuilding.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/RoofOfMainBuilding.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/SideHall.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/SideHall.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/SideRoof.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/SideRoof.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/SideRoom.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/SideRoom.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/TheLongCorridor.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/TheLongCorridor.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/TheMainHall.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/TheMainHall.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/1.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/1.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/2.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/2.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/3.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/3.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/4.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/4.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/5.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/5.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/6.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/6.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/7.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Step/7.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/BackSail.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/BackSail.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Board.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Board.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Bone.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Bone.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Bottom.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Bottom.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/FrontSail.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/FrontSail.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/MiddleSail.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/MiddleSail.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/1.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/1.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/2.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/2.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/3.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/3.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/4.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/4.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/5.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/5.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/6.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Step/6.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/1.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/1.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/10.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/10.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/2.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/2.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/3.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/3.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/4.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/4.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/5.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/5.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/6.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/6.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/7.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/7.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/8.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/8.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/9.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sydney/Step/9.prefab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/IntrodutionScene.unity" afterPath="$PROJECT_DIR$/Assets/scene/IntrodutionScene.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/bicycle.unity" afterPath="$PROJECT_DIR$/Assets/scene/bicycle.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/cabins.unity" afterPath="$PROJECT_DIR$/Assets/scene/cabins.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/carousel.unity" afterPath="$PROJECT_DIR$/Assets/scene/carousel.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/creativemodemenu.unity" afterPath="$PROJECT_DIR$/Assets/scene/creativemodemenu.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/jeep.unity" afterPath="$PROJECT_DIR$/Assets/scene/jeep.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/library.unity" afterPath="$PROJECT_DIR$/Assets/scene/library.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/sailboat.unity" afterPath="$PROJECT_DIR$/Assets/scene/sailboat.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BackPivot.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BackPivot.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BikeFrame.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/BikeFrame.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FrontFork.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FrontFork.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FrontPivot.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/FrontPivot.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/HandleBar.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Bicycle/Collider/HandleBar.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Base.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Cabins/Collider/Base.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseDOWN.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseDOWN.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseUP.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseUP.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/LandBase.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/LandBase.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/MiddleColumn.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/MiddleColumn.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Orbit.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Orbit.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/RoofDecoration.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/RoofDecoration.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/BackDoor.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/BackDoor.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/CarBase.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/CarBase.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/CarShell.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/CarShell.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/Engine.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/Engine.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/FrontDoor.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Jeep/Collider/FrontDoor.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/TheLongCorridor.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Library/Collider/TheLongCorridor.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/BackSail.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/BackSail.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Board.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Board.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Bone.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Bone.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Bottom.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/Bottom.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/FrontSail.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/FrontSail.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/MiddleSail.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Sailboat/Collider/MiddleSail.prefab.meta" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +148,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConfigureClass.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConfigureClass.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3168">
@@ -50,12 +187,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="InitilizatinARScript.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/InitilizatinARScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1509863872538" expanded="true" signature="6:78" ph="..." />
+                <marker date="1509863872538" expanded="true" signature="129:448" ph="{...}" />
+                <marker date="1509863872538" expanded="true" signature="181:374" ph="{...}" />
+                <marker date="1509863872538" expanded="true" signature="312:368" ph="{...}" />
+                <marker date="1509863872538" expanded="true" signature="429:446" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/InitilizatinARScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -71,7 +225,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="135" />
     <option name="width" value="1440" />
@@ -157,12 +311,12 @@
       <updated>1509977029417</updated>
       <workItem from="1509977033641" duration="91000" />
       <workItem from="1509977151777" duration="2788000" />
-      <workItem from="1510018810179" duration="629000" />
+      <workItem from="1510018810179" duration="1358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3508000" />
+    <option name="totallyTimeSpent" value="4237000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -174,8 +328,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -317,6 +470,20 @@
             <marker date="1509981311676" expanded="true" signature="8191:8837" ph="初始化所有物品图片路径信息" />
             <marker date="1509981311676" expanded="true" signature="8847:9490" ph="初始化所有物品Prefab路径信息" />
             <marker date="1509981311676" expanded="true" signature="9500:10061" ph="初始化拼图结果预设体地址" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/InitilizatinARScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509863872538" expanded="true" signature="6:78" ph="..." />
+            <marker date="1509863872538" expanded="true" signature="129:448" ph="{...}" />
+            <marker date="1509863872538" expanded="true" signature="181:374" ph="{...}" />
+            <marker date="1509863872538" expanded="true" signature="312:368" ph="{...}" />
+            <marker date="1509863872538" expanded="true" signature="429:446" ph="{...}" />
           </folding>
         </state>
       </provider>
