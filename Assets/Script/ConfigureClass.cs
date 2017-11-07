@@ -241,15 +241,15 @@ public class ConfigureClass {
         descriptions.Add("sydney",itemDescription);
 
         //加载小木屋介绍
-        itemDescription="房屋是住人或存放东西的建筑物。房屋是家庭的基体，房屋是人类生存的寄托，在这里人们可以避开外界一切干扰，和自己的亲人享受自由自在的生活。这种以房屋为本的思想深深的影响着人们，人们都为拥有自己的房屋而努力。";
+        itemDescription="房屋是住人或存放东西的建筑物。房屋是家庭的基体，在这里人们可以避开外界一切干扰，和自己的亲人享受自由自在的生活。人们都为拥有自己的房屋而努力。";
         descriptions.Add("cabins",itemDescription);
 
         //加载图书馆介绍
-        itemDescription="图书馆，是搜集、整理、收藏图书资料以供人阅览、参考的机构，早在公元前3000年就出现了图书馆，图书馆有保存人类文化遗产、开发信息资源、参与社会教育等职能。";
+        itemDescription="图书馆，是搜集、整理、收藏图书资料以供人阅览、参考的机构，早在公元前3000年就出现了图书馆，图书馆有保存人类文化遗产、参与社会教育等职能。";
         descriptions.Add("library",itemDescription);
 
         //加载帆船介绍
-        itemDescription="船指的是：举凡利用水的浮力，依靠人力、风帆、发动机（如蒸气机、燃气涡轮、柴油引擎、核子动力机组）等动力，牵、拉、推、划、或推动螺旋桨、高压喷嘴，使能在水上移动的交通运输工具。";
+        itemDescription="船指的是：举凡利用水的浮力，依靠人力、风帆、发动机（如蒸气机、燃气涡轮、柴油引擎、核子动力机组）等动力,使能在水上移动的交通运输工具。";
         descriptions.Add("sailboat",itemDescription);
 
         //加载自行车介绍
@@ -257,7 +257,7 @@ public class ConfigureClass {
         descriptions.Add("bicycle",itemDescription);
 
         //加载吉普车介绍
-        itemDescription="吉普车是越野车的一种，是四轮驱动，稳定性良好的车型。越野车有军用民用两种，作为军用是最普遍的。其他还有专用越野拖炮车，越野测量车等。民用越野车，吉普车也是最常用的。另外还有越野地质探矿车、民用越野敞蓬车等。";
+        itemDescription="吉普车是越野车的一种，是四轮驱动，稳定性良好的车型。越野车有军用民用两种，作为军用是最普遍的。另外还有越野地质探矿车、民用越野敞蓬车等。";
         descriptions.Add("jeep",itemDescription);
 
         //加载旋转木马介绍
