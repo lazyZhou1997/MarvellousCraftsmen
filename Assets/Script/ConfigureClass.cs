@@ -23,6 +23,18 @@ public class ConfigureClass {
 
     #endregion
 
+    #region 是否读取存档
+
+    public static bool isreadGameData = false;//是否需要读取存档,true时读取，false时不读取
+
+    #endregion
+    
+    #region 存档名称
+
+    public static string archiveName ="小花花";
+
+    #endregion
+
     #region 保存仓库场景中要显示的模型的名字
 
     public static string showModelInRepository = "sydney";
@@ -31,7 +43,7 @@ public class ConfigureClass {
 
     #region 保存游戏结束时间
 
-    public static float finishTime = -1;//完成游戏的时间
+    public static float finishTime = 0;//完成游戏的时间
 
     #endregion
     #region 拼图步骤

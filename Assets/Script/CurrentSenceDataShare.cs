@@ -11,19 +11,19 @@ public class CurrentSenceDataShare : MonoBehaviour
 {
     #region 公共变量
 
-    public GameObject currentPuzzleResult;//当前拼图结果
+    public GameObject currentPuzzleResult; //当前拼图结果
 
     #endregion
 
     //已经设置为disActive的ImageTarget对象，保存它们用于在取消保存到物品栏之后恢复其Active。
     private Dictionary<string, GameObject> targetsSetDisactive = new Dictionary<string, GameObject>();
 
-    private string activeModel;//当前活跃的AR模型
+    private string activeModel; //当前活跃的AR模型
 
     private string[] items = new string[5]; //表示物品栏中存的物品名称
 
-    private GameObject[] currentItemgGameObjects = new GameObject[5];//当前物品栏中的对象集合
-    
+    private GameObject[] currentItemgGameObjects = new GameObject[5]; //当前物品栏中的对象集合
+
     public string ActiveModel
     {
         get { return activeModel; }
@@ -34,6 +34,7 @@ public class CurrentSenceDataShare : MonoBehaviour
     public string[] Items
     {
         get { return items; }
+        set { items = value; }
     }
 
     public Dictionary<string, GameObject> TargetsSetDisactive
@@ -56,7 +57,7 @@ public class CurrentSenceDataShare : MonoBehaviour
     /// <param name="position">int类型，范围为0-4</param>
     public void ActiveItemgGameObjectsInPositon(int position)
     {
-        if (null!=currentItemgGameObjects[position])
+        if (null != currentItemgGameObjects[position])
         {
             currentItemgGameObjects[position].SetActive(true);
         }
@@ -70,10 +71,10 @@ public class CurrentSenceDataShare : MonoBehaviour
         foreach (GameObject itemgGameObject in currentItemgGameObjects)
         {
             //如果对象不为null，则取消激活
-            if (null!=itemgGameObject)
+            if (null != itemgGameObject)
             {
                 itemgGameObject.SetActive(false);
-            }  
+            }
         }
     }
 
@@ -82,7 +83,7 @@ public class CurrentSenceDataShare : MonoBehaviour
     /// </summary>
     /// <param name="gameObject">游戏对象</param>
     /// <param name="position">位置</param>
-    public void AddItemGameObjects(GameObject itemGameObject,int position)
+    public void AddItemGameObjects(GameObject itemGameObject, int position)
     {
         currentItemgGameObjects[position] = itemGameObject;
     }
@@ -95,7 +96,7 @@ public class CurrentSenceDataShare : MonoBehaviour
         for (int i = 0; i < currentItemgGameObjects.Length; i++)
         {
             //当前对象不为null并且已经被激活（被选中）
-            if (null!=currentItemgGameObjects[i]&&currentItemgGameObjects[i].activeSelf)
+            if (null != currentItemgGameObjects[i] && currentItemgGameObjects[i].activeSelf)
             {
                 //销毁对象
                 Destroy(currentItemgGameObjects[i]);
@@ -116,7 +117,7 @@ public class CurrentSenceDataShare : MonoBehaviour
     public void ActiveImageTargetByName(string name)
     {
         //如果传入的name为null，不继续操作
-        if (null==name)
+        if (null == name)
         {
             Debug.Log("传入要激活的ImageTarget对象的值为null，在CurrentSenceDataShare类中");
             return;
@@ -141,8 +142,8 @@ public class CurrentSenceDataShare : MonoBehaviour
     /// <returns></returns>
     public string RemoveItemInPosition(int position)
     {
-        string name = items[position];//暂存名字
-        items[position] = null;//移除名字
+        string name = items[position]; //暂存名字
+        items[position] = null; //移除名字
 
         return name;
     }
@@ -190,23 +191,20 @@ public class CurrentSenceDataShare : MonoBehaviour
     }
 
     #endregion
+
     #endregion
 
     // Use this for initialization
-    void Start ()
+    void Start()
     {
-        
     }
-	
-	// Update is called once per frame
-	void Update ()
-	{
-	    
+
+    // Update is called once per frame
+    void Update()
+    {
     }
 
     #region 私有方法
 
-
     #endregion
-
 }

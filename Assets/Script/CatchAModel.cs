@@ -78,6 +78,7 @@ public class CatchAModel : MonoBehaviour
         items[position] = currentSenceDataShare.ActiveModel;//ActiveModel是当前活动模型名字的访问器
         Debug.Log("当前对象是：" + currentSenceDataShare.ActiveModel);
         Debug.Log("items[position]中是："+items[position]);
+        
         //卸载当前模型,将不再能够检测到改模型的状态
         GameObject currentModel = GameObject.Find(items[position]);
         currentModel.SetActive(false);

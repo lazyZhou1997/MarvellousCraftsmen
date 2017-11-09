@@ -2,43 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71400728-1476-43a4-9f9e-40e5261b6957" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseDOWN.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseDOWN.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseUP.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseUP.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/LandBase.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/LandBase.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/MiddleColumn.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/MiddleColumn.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Orbit.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Orbit.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/RoofDecoration.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/RoofDecoration.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Umbrella.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Umbrella.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/1.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/1.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/2.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/2.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/3.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/3.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/4.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/4.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/5.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/5.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/6.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/6.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/7.prefab" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/7.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/bicycle.unity" afterPath="$PROJECT_DIR$/Assets/scene/bicycle.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/cabins.unity" afterPath="$PROJECT_DIR$/Assets/scene/cabins.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/carousel.unity" afterPath="$PROJECT_DIR$/Assets/scene/carousel.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/jeep.unity" afterPath="$PROJECT_DIR$/Assets/scene/jeep.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/library.unity" afterPath="$PROJECT_DIR$/Assets/scene/library.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/sailboat.unity" afterPath="$PROJECT_DIR$/Assets/scene/sailboat.unity" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ModelToShowInRepository.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ModelToShowInRepository.cs.meta" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/myrepositry.unity" afterPath="$PROJECT_DIR$/Assets/scene/myrepositry.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/sydney.unity" afterPath="$PROJECT_DIR$/Assets/scene/sydney.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/contentModel.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseDOWN.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseDOWN.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseUP.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/HorseUP.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/LandBase.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/LandBase.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/MiddleColumn.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/MiddleColumn.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Orbit.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Orbit.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/RoofDecoration.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/RoofDecoration.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Umbrella.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Collider/Umbrella.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/1.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/1.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/2.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/2.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/3.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/3.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/4.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/4.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/5.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/5.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/6.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/6.prefab.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/7.prefab.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/prefab/Carousel/Step/7.prefab.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/CatchAModel.cs" afterPath="$PROJECT_DIR$/Assets/Script/CatchAModel.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" afterPath="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/CurrentSenceDataShare.cs" afterPath="$PROJECT_DIR$/Assets/Script/CurrentSenceDataShare.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs" afterPath="$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QCAR/somedata16" afterPath="$PROJECT_DIR$/QCAR/somedata16" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,38 +26,55 @@
       <file leaf-file-name="TerrainTrackableEventHandler.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            <state relative-caret-position="318">
+              <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding>
-                <marker date="1509888039539" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
-                <marker date="1509888039539" expanded="false" signature="374:401" ph="..." />
-                <marker date="1509888039539" expanded="true" signature="403:510" ph="///     A custom handler that implements the ITrackableEventHandler interface. ... " />
-                <marker date="1509888039539" expanded="true" signature="592:7275" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="599:781" ph="公共变量" />
-                <marker date="1509888039539" expanded="true" signature="787:1147" ph="PRIVATE_MEMBER_VARIABLES" />
-                <marker date="1509888039539" expanded="true" signature="1153:1537" ph="UNTIY_MONOBEHAVIOUR_METHODS" />
-                <marker date="1509888039539" expanded="true" signature="1224:1490" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="1543:2792" ph="PUBLIC_METHODS" />
-                <marker date="1509888039539" expanded="true" signature="1572:1722" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
-                <marker date="1509888039539" expanded="true" signature="1858:2758" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="2058:2193" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="2332:2465" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="2478:2752" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="2501:2712" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
-                <marker date="1509888039539" expanded="true" signature="2798:6741" ph="PRIVATE_METHODS" />
-                <marker date="1509888039539" expanded="true" signature="2867:5807" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="2874:3201" ph="/* 如果是第一次发现该对象并且该对象已经激活，则进行一些操作，让屏幕中心的对象消失 ... */" />
-                <marker date="1509888039539" expanded="true" signature="3794:4012" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
-                <marker date="1509888039539" expanded="true" signature="4022:5801" ph="进行拼图处理" />
-                <marker date="1509888039539" expanded="true" signature="4179:4239" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="4450:5650" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="4894:4989" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="5449:5640" ph="拼图完成处理" />
-                <marker date="1509888039539" expanded="true" signature="5524:5616" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="5675:5780" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="5853:6706" ph="{...}" />
-                <marker date="1509888039539" expanded="true" signature="6447:6700" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
-                <marker date="1509888039539" expanded="true" signature="6743:7273" ph="/*    /// 取消传入的GameObject对象数组中所有对象的激活 ... */" />
+                <marker date="1510215208000" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
+                <marker date="1510215208000" expanded="false" signature="374:401" ph="..." />
+                <marker date="1510215208000" expanded="true" signature="403:510" ph="///     A custom handler that implements the ITrackableEventHandler interface. ... " />
+                <marker date="1510215208000" expanded="true" signature="592:7408" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="599:781" ph="公共变量" />
+                <marker date="1510215208000" expanded="true" signature="787:1149" ph="PRIVATE_MEMBER_VARIABLES" />
+                <marker date="1510215208000" expanded="true" signature="1155:1670" ph="UNTIY_MONOBEHAVIOUR_METHODS" />
+                <marker date="1510215208000" expanded="true" signature="1226:1623" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="1296:1354" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="1676:2925" ph="PUBLIC_METHODS" />
+                <marker date="1510215208000" expanded="true" signature="1705:1855" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+                <marker date="1510215208000" expanded="true" signature="1991:2891" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="2191:2326" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="2465:2598" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="2611:2885" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="2634:2845" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+                <marker date="1510215208000" expanded="true" signature="2931:6874" ph="PRIVATE_METHODS" />
+                <marker date="1510215208000" expanded="true" signature="3000:5940" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="3007:3334" ph="/* 如果是第一次发现该对象并且该对象已经激活，则进行一些操作，让屏幕中心的对象消失 ... */" />
+                <marker date="1510215208000" expanded="true" signature="3927:4145" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
+                <marker date="1510215208000" expanded="true" signature="4155:5934" ph="进行拼图处理" />
+                <marker date="1510215208000" expanded="true" signature="4312:4372" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="4583:5783" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="5027:5122" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="5582:5773" ph="拼图完成处理" />
+                <marker date="1510215208000" expanded="true" signature="5657:5749" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="5808:5913" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="5986:6839" ph="{...}" />
+                <marker date="1510215208000" expanded="true" signature="6580:6833" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
+                <marker date="1510215208000" expanded="true" signature="6876:7406" ph="/*    /// 取消传入的GameObject对象数组中所有对象的激活 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuitButtonListener.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/QuitButtonListener.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+              <folding>
+                <marker date="1509945737000" expanded="false" signature="6:113" ph="..." />
+                <marker date="1509945737000" expanded="true" signature="164:396" ph="{...}" />
+                <marker date="1509945737000" expanded="true" signature="214:221" ph="{...}" />
+                <marker date="1509945737000" expanded="true" signature="276:283" ph="{...}" />
+                <marker date="1509945737000" expanded="true" signature="318:394" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -92,82 +83,55 @@
       <file leaf-file-name="SplashLoad.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/SplashLoad.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2304">
-              <caret line="108" column="27" lean-forward="false" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
+            <state relative-caret-position="4606">
+              <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
               <folding>
-                <marker date="1510143319564" expanded="true" signature="6:79" ph="..." />
-                <marker date="1510143319564" expanded="true" signature="80:151" ph="/* 使用方法：将该脚本附在镜头下面，然后切换场景时镜头不销毁 ... */" />
-                <marker date="1510143319564" expanded="true" signature="298:356" ph="/* 将要加载的场景序号 ... */" />
-                <marker date="1510143319564" expanded="false" signature="897:976" ph="{...}" />
-                <marker date="1510143319564" expanded="false" signature="1083:1164" ph="{...}" />
-                <marker date="1510143319564" expanded="false" signature="1310:1358" ph="{...}" />
-                <marker date="1510143319564" expanded="false" signature="1464:2269" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="1528:1819" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="1832:2017" ph="{...}" />
-                <marker date="1510143319564" expanded="false" signature="2081:2141" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="2183:2263" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="2351:2453" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="2529:2631" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="2708:2866" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="2919:2968" ph="{...}" />
-                <marker date="1510143319564" expanded="false" signature="3000:3381" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="3025:3375" ph="{...}" />
-                <marker date="1510143319564" expanded="false" signature="3399:4197" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="3430:4191" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="3713:3799" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="3952:4158" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="4011:4090" ph="{...}" />
-                <marker date="1510143319564" expanded="false" signature="4215:5396" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="4284:4456" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="4482:5061" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="4678:5051" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="4785:5037" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="5087:5390" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="5164:5333" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="5227:5319" ph="{...}" />
-                <marker date="1510143319564" expanded="true" signature="5350:5380" ph="{...}" />
+                <marker date="1510206777000" expanded="false" signature="6:79" ph="..." />
+                <marker date="1510206777000" expanded="true" signature="80:151" ph="/* 使用方法：将该脚本附在镜头下面，然后切换场景时镜头不销毁 ... */" />
+                <marker date="1510206777000" expanded="true" signature="207:5398" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="298:356" ph="/* 将要加载的场景序号 ... */" />
+                <marker date="1510206777000" expanded="true" signature="897:976" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="1083:1164" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="1310:1358" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="1464:2269" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="1528:1819" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="1832:2017" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="2081:2141" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="2183:2263" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="2351:2453" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="2529:2631" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="2708:2866" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="2919:2968" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="3000:3381" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="3025:3375" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="3399:4197" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="3430:4191" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="3713:3799" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="3952:4158" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="4011:4090" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="4215:5396" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="4284:4456" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="4482:5061" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="4678:5051" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="4785:5037" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="5087:5390" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="5164:5333" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="5227:5319" ph="{...}" />
+                <marker date="1510206777000" expanded="true" signature="5350:5380" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurrentItemChoiced.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/CurrentItemChoiced.cs">
+      <file leaf-file-name="GameData.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/GameData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding>
-                <marker date="1509689950340" expanded="false" signature="6:100" ph="..." />
-                <marker date="1509689950340" expanded="true" signature="150:1949" ph="{...}" />
-                <marker date="1509689950340" expanded="true" signature="157:369" ph="公共变量" />
-                <marker date="1509689950340" expanded="true" signature="375:404" ph="私有变量" />
-                <marker date="1509689950340" expanded="true" signature="410:449" ph="私有成员变量的属性" />
-                <marker date="1509689950340" expanded="true" signature="504:511" ph="{...}" />
-                <marker date="1509689950340" expanded="true" signature="566:573" ph="{...}" />
-                <marker date="1509689950340" expanded="true" signature="579:630" ph="/// 选中当前物品栏中物品 ... " />
-                <marker date="1509689950340" expanded="true" signature="666:1418" ph="{...}" />
-                <marker date="1509689950340" expanded="true" signature="866:1411" ph="/* 使另外五个物品栏按钮的不透明 ... */" />
-                <marker date="1509689950340" expanded="true" signature="1424:1947" ph="私有方法" />
-                <marker date="1509689950340" expanded="true" signature="1438:1931" ph="/*    /// 使传入的按钮对象透明 ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoadingAsyn.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/LoadingAsyn.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-              <folding>
-                <marker date="1509803754927" expanded="false" signature="6:149" ph="..." />
-                <marker date="1509803754927" expanded="true" signature="191:1114" ph="{...}" />
-                <marker date="1509803754927" expanded="true" signature="451:615" ph="{...}" />
-                <marker date="1509803754927" expanded="true" signature="669:790" ph="{...}" />
-                <marker date="1509803754927" expanded="true" signature="749:787" ph="{...}" />
-                <marker date="1509803754927" expanded="true" signature="808:982" ph="{...}" />
-                <marker date="1509803754927" expanded="true" signature="863:976" ph="{...}" />
-                <marker date="1509803754927" expanded="true" signature="1011:1112" ph="{...}" />
+                <marker date="1510209987000" expanded="true" signature="6:127" ph="..." />
+                <marker date="1510209987000" expanded="true" signature="150:329" ph="{...}" />
+                <marker date="1510209987000" expanded="true" signature="155:327" ph="游戏存档内容" />
               </folding>
             </state>
           </provider>
@@ -176,90 +140,179 @@
       <file leaf-file-name="ConfigureClass.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="33" selection-start-column="49" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="383">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
-                <marker date="1510155602965" expanded="true" signature="6:59" ph="..." />
-                <marker date="1510155602965" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
-                <marker date="1510155602965" expanded="true" signature="128:10250" ph="{...}" />
-                <marker date="1510155602965" expanded="true" signature="135:629" ph="资源文件路径信息" />
-                <marker date="1510155602965" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
-                <marker date="1510155602965" expanded="true" signature="719:819" ph="保存仓库场景中要显示的模型的名字" />
-                <marker date="1510155602965" expanded="true" signature="825:908" ph="保存游戏结束时间" />
-                <marker date="1510155602965" expanded="true" signature="913:1038" ph="拼图步骤" />
-                <marker date="1510155602965" expanded="true" signature="1044:1166" ph="对话内容" />
-                <marker date="1510155602965" expanded="true" signature="1176:1296" ph="模型介绍" />
-                <marker date="1510155602965" expanded="true" signature="1347:10247" ph="{...}" />
-                <marker date="1510155602965" expanded="true" signature="1362:1930" ph="Sydney拼图步骤初始化" />
-                <marker date="1510155602965" expanded="true" signature="1940:2360" ph="Cabins拼图步骤初始化" />
-                <marker date="1510155602965" expanded="true" signature="2370:2755" ph="Library拼图步骤初始化" />
-                <marker date="1510155602965" expanded="true" signature="2765:3076" ph="SailBoat拼图步骤初始化" />
-                <marker date="1510155602965" expanded="true" signature="3086:3431" ph="Jeep拼图步骤初始化" />
-                <marker date="1510155602965" expanded="true" signature="3441:3918" ph="Bicycle拼图步骤初始化" />
-                <marker date="1510155602965" expanded="true" signature="3922:4243" ph="Carousel拼图步骤初始化" />
-                <marker date="1510155602965" expanded="true" signature="4247:7031" ph="初始化对话内容" />
-                <marker date="1510155602965" expanded="true" signature="4340:4539" ph="{...}" />
-                <marker date="1510155602965" expanded="true" signature="4635:5222" ph="{...}" />
-                <marker date="1510155602965" expanded="true" signature="5326:5695" ph="{...}" />
-                <marker date="1510155602965" expanded="true" signature="5791:6022" ph="{...}" />
-                <marker date="1510155602965" expanded="true" signature="6120:6390" ph="{...}" />
-                <marker date="1510155602965" expanded="true" signature="6495:6690" ph="{...}" />
-                <marker date="1510155602965" expanded="true" signature="6793:6967" ph="{...}" />
-                <marker date="1510155602965" expanded="true" signature="7049:8284" ph="模型介绍" />
-                <marker date="1510155602965" expanded="true" signature="8294:8940" ph="初始化所有物品图片路径信息" />
-                <marker date="1510155602965" expanded="true" signature="8950:9670" ph="初始化所有物品Prefab路径信息" />
-                <marker date="1510155602965" expanded="true" signature="9680:10241" ph="初始化拼图结果预设体地址" />
+                <marker date="1510215473000" expanded="false" signature="6:59" ph="..." />
+                <marker date="1510215473000" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
+                <marker date="1510215473000" expanded="true" signature="128:10445" ph="{...}" />
+                <marker date="1510215473000" expanded="true" signature="135:629" ph="资源文件路径信息" />
+                <marker date="1510215473000" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
+                <marker date="1510215473000" expanded="true" signature="719:825" ph="是否读取存档" />
+                <marker date="1510215473000" expanded="true" signature="835:909" ph="存档名称" />
+                <marker date="1510215473000" expanded="true" signature="915:1015" ph="保存仓库场景中要显示的模型的名字" />
+                <marker date="1510215473000" expanded="true" signature="1021:1103" ph="保存游戏结束时间" />
+                <marker date="1510215473000" expanded="true" signature="1108:1233" ph="拼图步骤" />
+                <marker date="1510215473000" expanded="true" signature="1239:1361" ph="对话内容" />
+                <marker date="1510215473000" expanded="true" signature="1371:1491" ph="模型介绍" />
+                <marker date="1510215473000" expanded="true" signature="1542:10442" ph="{...}" />
+                <marker date="1510215473000" expanded="true" signature="1557:2125" ph="Sydney拼图步骤初始化" />
+                <marker date="1510215473000" expanded="true" signature="2135:2555" ph="Cabins拼图步骤初始化" />
+                <marker date="1510215473000" expanded="true" signature="2565:2950" ph="Library拼图步骤初始化" />
+                <marker date="1510215473000" expanded="true" signature="2960:3271" ph="SailBoat拼图步骤初始化" />
+                <marker date="1510215473000" expanded="true" signature="3281:3626" ph="Jeep拼图步骤初始化" />
+                <marker date="1510215473000" expanded="true" signature="3636:4113" ph="Bicycle拼图步骤初始化" />
+                <marker date="1510215473000" expanded="true" signature="4117:4438" ph="Carousel拼图步骤初始化" />
+                <marker date="1510215473000" expanded="true" signature="4442:7226" ph="初始化对话内容" />
+                <marker date="1510215473000" expanded="true" signature="4535:4734" ph="{...}" />
+                <marker date="1510215473000" expanded="true" signature="4830:5417" ph="{...}" />
+                <marker date="1510215473000" expanded="true" signature="5521:5890" ph="{...}" />
+                <marker date="1510215473000" expanded="true" signature="5986:6217" ph="{...}" />
+                <marker date="1510215473000" expanded="true" signature="6315:6585" ph="{...}" />
+                <marker date="1510215473000" expanded="true" signature="6690:6885" ph="{...}" />
+                <marker date="1510215473000" expanded="true" signature="6988:7162" ph="{...}" />
+                <marker date="1510215473000" expanded="true" signature="7244:8479" ph="模型介绍" />
+                <marker date="1510215473000" expanded="true" signature="8489:9135" ph="初始化所有物品图片路径信息" />
+                <marker date="1510215473000" expanded="true" signature="9145:9865" ph="初始化所有物品Prefab路径信息" />
+                <marker date="1510215473000" expanded="true" signature="9875:10436" ph="初始化拼图结果预设体地址" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameOverScript.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/GameOverScript.cs">
+      <file leaf-file-name="SaveGameDataScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/SaveGameDataScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="864">
+              <caret line="40" column="57" lean-forward="false" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
               <folding>
-                <marker date="1510156002618" expanded="true" signature="6:114" ph="..." />
-                <marker date="1510156002618" expanded="true" signature="160:574" ph="{...}" />
-                <marker date="1510156002618" expanded="true" signature="251:510" ph="{...}" />
-                <marker date="1510156002618" expanded="true" signature="300:467" ph="{...}" />
-                <marker date="1510156002618" expanded="true" signature="474:507" ph="{...}" />
-                <marker date="1510156002618" expanded="true" signature="565:572" ph="{...}" />
+                <marker date="1510215775000" expanded="false" signature="6:122" ph="..." />
+                <marker date="1510215775000" expanded="true" signature="171:1443" ph="{...}" />
+                <marker date="1510215775000" expanded="true" signature="284:291" ph="{...}" />
+                <marker date="1510215775000" expanded="true" signature="346:353" ph="{...}" />
+                <marker date="1510215775000" expanded="true" signature="356:398" ph="/// 保存游戏的存档 ... " />
+                <marker date="1510215775000" expanded="true" signature="442:1031" ph="{...}" />
+                <marker date="1510215775000" expanded="true" signature="507:526" ph="{...}" />
+                <marker date="1510215775000" expanded="true" signature="1035:1101" ph="/// 读取游戏存档 ... " />
+                <marker date="1510215775000" expanded="true" signature="1132:1439" ph="{...}" />
+                <marker date="1510215775000" expanded="true" signature="1291:1344" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoadIntroductionOfCurrentScene.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentScene.cs">
+      <file leaf-file-name="InitialGameScript.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/InitialGameScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="312">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
               <folding>
-                <marker date="1510046950516" expanded="false" signature="6:133" ph="..." />
-                <marker date="1510046950516" expanded="true" signature="194:1285" ph="{...}" />
-                <marker date="1510046950516" expanded="true" signature="587:777" ph="{...}" />
-                <marker date="1510046950516" expanded="true" signature="832:1282" ph="{...}" />
-                <marker date="1510046950516" expanded="true" signature="880:1278" ph="{...}" />
-                <marker date="1510046950516" expanded="true" signature="888:1273" ph="显示要呈现的内容，每隔SHOWTIME秒显示一个字符" />
-                <marker date="1510046950516" expanded="true" signature="1041:1258" ph="{...}" />
+                <marker date="1510215281000" expanded="true" signature="6:100" ph="..." />
+                <marker date="1510215281000" expanded="true" signature="148:2536" ph="{...}" />
+                <marker date="1510215281000" expanded="true" signature="388:2533" ph="{...}" />
+                <marker date="1510215281000" expanded="false" signature="467:2445" ph="{...}" />
+                <marker date="1510215281000" expanded="true" signature="490:2435" ph="恢复游戏存档场景" />
+                <marker date="1510215281000" expanded="true" signature="977:2304" ph="{...}" />
+                <marker date="1510215281000" expanded="true" signature="1064:2290" ph="{...}" />
+                <marker date="1510215281000" expanded="true" signature="1351:1885" ph="恢复物品栏中对象的引用" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutoChangeScene.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/AutoChangeScene.cs">
+      <file leaf-file-name="CatchAModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CatchAModel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            <state relative-caret-position="1791">
+              <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="86" selection-end-column="87" />
               <folding>
-                <marker date="1509801963600" expanded="false" signature="6:102" ph="..." />
-                <marker date="1509801963600" expanded="true" signature="149:707" ph="{...}" />
-                <marker date="1509801963600" expanded="true" signature="419:471" ph="{...}" />
-                <marker date="1509801963600" expanded="true" signature="525:702" ph="{...}" />
-                <marker date="1509801963600" expanded="true" signature="619:695" ph="{...}" />
+                <marker date="1510214179000" expanded="false" signature="6:149" ph="..." />
+                <marker date="1510214179000" expanded="true" signature="152:220" ph="/// 用于抓取一个对象到物品栏，并且取消该物品与ImageTarget的绑定 ... " />
+                <marker date="1510214179000" expanded="true" signature="261:3348" ph="{...}" />
+                <marker date="1510214179000" expanded="true" signature="268:355" ph="物品栏中的五个按钮中的Image引用" />
+                <marker date="1510214179000" expanded="true" signature="697:859" ph="{...}" />
+                <marker date="1510214179000" expanded="true" signature="913:920" ph="{...}" />
+                <marker date="1510214179000" expanded="true" signature="926:989" ph="/// 将当前活跃的模型添加到物品栏数组items中 ... " />
+                <marker date="1510214179000" expanded="true" signature="1023:3346" ph="{...}" />
+                <marker date="1510214179000" expanded="true" signature="1111:1151" ph="{...}" />
+                <marker date="1510214179000" expanded="true" signature="1271:1718" ph="{...}" />
+                <marker date="1510214179000" expanded="true" signature="1404:1573" ph="{...}" />
+                <marker date="1510214179000" expanded="true" signature="1606:1665" ph="{...}" />
+                <marker date="1510214179000" expanded="true" signature="1824:1908" ph="{...}" />
+                <marker date="1510214179000" expanded="true" signature="2465:2518" ph="/* 加载对应的资源到内存中 ... */" />
+                <marker date="1510214179000" expanded="true" signature="2626:2919" ph="完成物品栏中图片的加载" />
+                <marker date="1510214179000" expanded="true" signature="2929:3340" ph="完成物品栏中对象的加载" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameTimeScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/GameTimeScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <marker date="1510213139000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1510213139000" expanded="true" signature="123:669" ph="{...}" />
+                <marker date="1510213139000" expanded="true" signature="130:199" ph="私有变量" />
+                <marker date="1510213139000" expanded="true" signature="252:315" ph="{...}" />
+                <marker date="1510213139000" expanded="true" signature="373:667" ph="{...}" />
+                <marker date="1510213139000" expanded="true" signature="388:661" ph="每隔1秒统计游戏时间" />
+                <marker date="1510213139000" expanded="true" signature="568:641" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentSenceDataShare.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CurrentSenceDataShare.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-139">
+              <caret line="24" column="60" lean-forward="false" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+              <folding>
+                <marker date="1510213133000" expanded="false" signature="6:114" ph="..." />
+                <marker date="1510213133000" expanded="true" signature="116:162" ph="/// 保存本场景中的一些共享数据 ... " />
+                <marker date="1510213133000" expanded="true" signature="213:4996" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="220:301" ph="公共变量" />
+                <marker date="1510213133000" expanded="true" signature="689:774" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="817:890" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="953:1009" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="1058:1118" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="1124:4825" ph="对外公共方法" />
+                <marker date="1510213133000" expanded="true" signature="1144:2712" ph="对物品栏中对象的操作" />
+                <marker date="1510213133000" expanded="true" signature="1168:1279" ph="/// 激活物品栏中position处的对象 ... " />
+                <marker date="1510213133000" expanded="true" signature="1341:1491" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="1402:1485" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="1497:1551" ph="/// 取消激活物品栏中的所有对象 ... " />
+                <marker date="1510213133000" expanded="true" signature="1598:1852" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="1676:1846" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="1758:1836" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="1858:2013" ph="/// 增加游戏对象gameObject到position处 ... " />
+                <marker date="1510213133000" expanded="true" signature="2089:2161" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="2167:2238" ph="/// 删除物品栏游戏对象中当前已经激活的对象，也就是目前选中的对象 ... " />
+                <marker date="1510213133000" expanded="true" signature="2286:2696" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="2357:2690" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="2497:2680" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="2718:3357" ph="对取消激活的ImageTarget对象的操作" />
+                <marker date="1510213133000" expanded="true" signature="2754:2869" ph="/// 激活name对应的ImageTarget ... " />
+                <marker date="1510213133000" expanded="true" signature="2922:3341" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="2985:3103" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="3363:3734" ph="对当前物品栏中ImageTarget对象名称的操作" />
+                <marker date="1510213133000" expanded="true" signature="3402:3546" ph="/// 移除指定位置的物品栏中存的物品名称 ... " />
+                <marker date="1510213133000" expanded="true" signature="3599:3718" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="3740:4809" ph="当前激活（选中）的物品栏中游戏对象的操作" />
+                <marker date="1510213133000" expanded="true" signature="3774:3901" ph="/// 返回当前激活（选中）对象的索引，如果没有激活对象则返回值为-1 ... " />
+                <marker date="1510213133000" expanded="true" signature="3949:4273" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="4020:4247" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="4160:4237" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="4279:4410" ph="/// 返回当前激活（选中）对象的名称，如果没有激活对象则返回值null ... " />
+                <marker date="1510213133000" expanded="true" signature="4460:4793" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="4531:4765" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="4671:4755" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="4878:4890" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="4948:4960" ph="{...}" />
+                <marker date="1510213133000" expanded="true" signature="4966:4994" ph="私有方法" />
               </folding>
             </state>
           </provider>
@@ -270,6 +323,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>levelToLoad</find>
+      <find>jia</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -277,18 +331,25 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Script/LoadingAsyn.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ModelToShowInRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/BallRotateScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CurrentItemChoiced.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/ShowRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/InitilizatinARScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/LoadSceneScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentScene.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/AutoChangeScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SaveGameDataScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/GameOverScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/QuitButtonListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameTimeScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/LoadSceneScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AutoChangeScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/QuitGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SplashLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CurrentSenceDataShare.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ModelToShowInRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/InitialGameScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/InitilizatinARScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/LoadUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ShowRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CatchAModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DestoryItem.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -306,8 +367,18 @@
         <option value="$PROJECT_DIR$/Assets/ModelToShowInRepository.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/FadeOut.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/SplashLoad.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/GameOverScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameTimeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/SaveGameDataScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SaveDataScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CurrentSenceDataShare.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameTimeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CatchAModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/InitialGameScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SaveGameDataScript.cs" />
       </list>
     </option>
   </component>
@@ -317,11 +388,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-38" />
-    <option name="y" value="14" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -338,6 +407,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -369,12 +439,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="SearchEverywhereHistoryKey" value="Save&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/SaveGameDataScript.cs&#10;ter&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/TerrainTrackableEventHandler.cs&#10;Curr&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/CurrentSenceDataShare.cs&#10;Cat&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/CatchAModel.cs&#10;Confi&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/ConfigureClass.cs&#10;GameTime&#9;null&#9;null&#10;INi&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/InitialGameScript.cs&#10;Config&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/ConfigureClass.cs&#10;Load&#9;null&#9;null&#10;Game&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/GameData.cs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -394,6 +464,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="71400728-1476-43a4-9f9e-40e5261b6957" name="Default" comment="" />
@@ -408,11 +481,12 @@
       <workItem from="1510048386124" duration="5344000" />
       <workItem from="1510130958723" duration="5665000" />
       <workItem from="1510155531156" duration="576000" />
+      <workItem from="1510207338833" duration="8072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22303000" />
+    <option name="totallyTimeSpent" value="30375000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,7 +498,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -439,6 +514,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -446,7 +522,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,176 +532,32 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/ModelToShowInRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <marker date="1510069141373" expanded="false" signature="6:78" ph="..." />
-            <marker date="1510069141373" expanded="true" signature="133:470" ph="{...}" />
-            <marker date="1510069141373" expanded="true" signature="183:190" ph="{...}" />
-            <marker date="1510069141373" expanded="true" signature="245:252" ph="{...}" />
-            <marker date="1510069141373" expanded="true" signature="255:347" ph="/// 设置将要在仓库中显示的模型名字 ... " />
-            <marker date="1510069141373" expanded="true" signature="394:468" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <marker date="1509888039539" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
-            <marker date="1509888039539" expanded="false" signature="374:401" ph="..." />
-            <marker date="1509888039539" expanded="true" signature="403:510" ph="///     A custom handler that implements the ITrackableEventHandler interface. ... " />
-            <marker date="1509888039539" expanded="true" signature="592:7275" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="599:781" ph="公共变量" />
-            <marker date="1509888039539" expanded="true" signature="787:1147" ph="PRIVATE_MEMBER_VARIABLES" />
-            <marker date="1509888039539" expanded="true" signature="1153:1537" ph="UNTIY_MONOBEHAVIOUR_METHODS" />
-            <marker date="1509888039539" expanded="true" signature="1224:1490" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="1543:2792" ph="PUBLIC_METHODS" />
-            <marker date="1509888039539" expanded="true" signature="1572:1722" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
-            <marker date="1509888039539" expanded="true" signature="1858:2758" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2058:2193" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2332:2465" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2478:2752" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2501:2712" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
-            <marker date="1509888039539" expanded="true" signature="2798:6741" ph="PRIVATE_METHODS" />
-            <marker date="1509888039539" expanded="true" signature="2867:5807" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2874:3201" ph="/* 如果是第一次发现该对象并且该对象已经激活，则进行一些操作，让屏幕中心的对象消失 ... */" />
-            <marker date="1509888039539" expanded="true" signature="3794:4012" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
-            <marker date="1509888039539" expanded="true" signature="4022:5801" ph="进行拼图处理" />
-            <marker date="1509888039539" expanded="true" signature="4179:4239" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="4450:5650" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="4894:4989" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="5449:5640" ph="拼图完成处理" />
-            <marker date="1509888039539" expanded="true" signature="5524:5616" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="5675:5780" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="5853:6706" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="6447:6700" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
-            <marker date="1509888039539" expanded="true" signature="6743:7273" ph="/*    /// 取消传入的GameObject对象数组中所有对象的激活 ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/SplashLoad.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2304">
-          <caret line="108" column="27" lean-forward="false" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
-          <folding>
-            <marker date="1510143319564" expanded="true" signature="6:79" ph="..." />
-            <marker date="1510143319564" expanded="true" signature="80:151" ph="/* 使用方法：将该脚本附在镜头下面，然后切换场景时镜头不销毁 ... */" />
-            <marker date="1510143319564" expanded="true" signature="298:356" ph="/* 将要加载的场景序号 ... */" />
-            <marker date="1510143319564" expanded="false" signature="897:976" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="1083:1164" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="1310:1358" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="1464:2269" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="1528:1819" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="1832:2017" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="2081:2141" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2183:2263" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2351:2453" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2529:2631" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2708:2866" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2919:2968" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="3000:3381" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="3025:3375" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="3399:4197" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="3430:4191" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="3713:3799" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="3952:4158" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4011:4090" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="4215:5396" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4284:4456" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4482:5061" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4678:5051" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4785:5037" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="5087:5390" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="5164:5333" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="5227:5319" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="5350:5380" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/CurrentItemChoiced.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <marker date="1509689950340" expanded="false" signature="6:100" ph="..." />
-            <marker date="1509689950340" expanded="true" signature="150:1949" ph="{...}" />
-            <marker date="1509689950340" expanded="true" signature="157:369" ph="公共变量" />
-            <marker date="1509689950340" expanded="true" signature="375:404" ph="私有变量" />
-            <marker date="1509689950340" expanded="true" signature="410:449" ph="私有成员变量的属性" />
-            <marker date="1509689950340" expanded="true" signature="504:511" ph="{...}" />
-            <marker date="1509689950340" expanded="true" signature="566:573" ph="{...}" />
-            <marker date="1509689950340" expanded="true" signature="579:630" ph="/// 选中当前物品栏中物品 ... " />
-            <marker date="1509689950340" expanded="true" signature="666:1418" ph="{...}" />
-            <marker date="1509689950340" expanded="true" signature="866:1411" ph="/* 使另外五个物品栏按钮的不透明 ... */" />
-            <marker date="1509689950340" expanded="true" signature="1424:1947" ph="私有方法" />
-            <marker date="1509689950340" expanded="true" signature="1438:1931" ph="/*    /// 使传入的按钮对象透明 ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/LoadingAsyn.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1692">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding>
-            <marker date="1509803754927" expanded="false" signature="6:149" ph="..." />
-            <marker date="1509803754927" expanded="true" signature="191:1114" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="451:615" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="669:790" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="749:787" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="808:982" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="863:976" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="1011:1112" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/LoadSceneScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="34" />
-          <folding>
-            <marker date="1510046950534" expanded="true" signature="6:113" ph="..." />
-            <marker date="1510046950534" expanded="true" signature="160:455" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="220:344" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="398:453" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/CatchAModel.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <marker date="1509865450215" expanded="false" signature="6:149" ph="..." />
-            <marker date="1509865450215" expanded="true" signature="152:220" ph="/// 用于抓取一个对象到物品栏，并且取消该物品与ImageTarget的绑定 ... " />
-            <marker date="1509865450215" expanded="true" signature="261:3339" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="268:355" ph="物品栏中的五个按钮中的Image引用" />
-            <marker date="1509865450215" expanded="true" signature="697:859" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="913:920" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="926:989" ph="/// 将当前活跃的模型添加到物品栏数组items中 ... " />
-            <marker date="1509865450215" expanded="true" signature="1023:3337" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1111:1151" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1271:1718" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1404:1573" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1606:1665" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1824:1908" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="2456:2509" ph="/* 加载对应的资源到内存中 ... */" />
-            <marker date="1509865450215" expanded="true" signature="2617:2910" ph="完成物品栏中图片的加载" />
-            <marker date="1509865450215" expanded="true" signature="2920:3331" ph="完成物品栏中对象的加载" />
+            <marker date="1510214179000" expanded="false" signature="6:149" ph="..." />
+            <marker date="1510214179000" expanded="true" signature="152:220" ph="/// 用于抓取一个对象到物品栏，并且取消该物品与ImageTarget的绑定 ... " />
+            <marker date="1510214179000" expanded="true" signature="261:3348" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="268:355" ph="物品栏中的五个按钮中的Image引用" />
+            <marker date="1510214179000" expanded="true" signature="697:859" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="913:920" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="926:989" ph="/// 将当前活跃的模型添加到物品栏数组items中 ... " />
+            <marker date="1510214179000" expanded="true" signature="1023:3346" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1111:1151" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1271:1718" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1404:1573" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1606:1665" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1824:1908" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="2465:2518" ph="/* 加载对应的资源到内存中 ... */" />
+            <marker date="1510214179000" expanded="true" signature="2626:2919" ph="完成物品栏中图片的加载" />
+            <marker date="1510214179000" expanded="true" signature="2929:3340" ph="完成物品栏中对象的加载" />
           </folding>
         </state>
       </provider>
@@ -635,15 +566,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510046950516" expanded="false" signature="6:133" ph="..." />
-            <marker date="1510046950516" expanded="true" signature="194:1285" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="587:777" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="832:1282" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="880:1278" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="888:1273" ph="显示要呈现的内容，每隔SHOWTIME秒显示一个字符" />
-            <marker date="1510046950516" expanded="true" signature="1041:1258" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -651,13 +574,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
           <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <marker date="1509801963600" expanded="false" signature="6:102" ph="..." />
-            <marker date="1509801963600" expanded="true" signature="149:707" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="419:471" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="525:702" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="619:695" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -665,24 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <marker date="1509857587384" expanded="false" signature="6:100" ph="..." />
-            <marker date="1509857587384" expanded="true" signature="143:1857" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="150:307" ph="公共属性" />
-            <marker date="1509857587384" expanded="true" signature="313:387" ph="私有属性" />
-            <marker date="1509857587384" expanded="true" signature="393:1725" ph="公共方法" />
-            <marker date="1509857587384" expanded="true" signature="411:464" ph="/// 重物品栏中删除选中的物品 ... " />
-            <marker date="1509857587384" expanded="true" signature="511:1146" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="676:754" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="779:1140" ph="将图片数组中的图片换成item_box" />
-            <marker date="1509857587384" expanded="true" signature="816:909" ph="/* 销毁原来的精灵图片 ... */" />
-            <marker date="1509857587384" expanded="true" signature="1152:1211" ph="/// 激活选中物品的ImageTarget ... " />
-            <marker date="1509857587384" expanded="true" signature="1254:1709" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="1320:1398" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="1553:1613" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="1780:1788" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="1848:1855" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -691,36 +590,38 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1510155602965" expanded="true" signature="6:59" ph="..." />
-            <marker date="1510155602965" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
-            <marker date="1510155602965" expanded="true" signature="128:10250" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="135:629" ph="资源文件路径信息" />
-            <marker date="1510155602965" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
-            <marker date="1510155602965" expanded="true" signature="719:819" ph="保存仓库场景中要显示的模型的名字" />
-            <marker date="1510155602965" expanded="true" signature="825:908" ph="保存游戏结束时间" />
-            <marker date="1510155602965" expanded="true" signature="913:1038" ph="拼图步骤" />
-            <marker date="1510155602965" expanded="true" signature="1044:1166" ph="对话内容" />
-            <marker date="1510155602965" expanded="true" signature="1176:1296" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="1347:10247" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="1362:1930" ph="Sydney拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="1940:2360" ph="Cabins拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2370:2755" ph="Library拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2765:3076" ph="SailBoat拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3086:3431" ph="Jeep拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3441:3918" ph="Bicycle拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3922:4243" ph="Carousel拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="4247:7031" ph="初始化对话内容" />
-            <marker date="1510155602965" expanded="true" signature="4340:4539" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="4635:5222" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5326:5695" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5791:6022" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6120:6390" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6495:6690" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6793:6967" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="7049:8284" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="8294:8940" ph="初始化所有物品图片路径信息" />
-            <marker date="1510155602965" expanded="true" signature="8950:9670" ph="初始化所有物品Prefab路径信息" />
-            <marker date="1510155602965" expanded="true" signature="9680:10241" ph="初始化拼图结果预设体地址" />
+            <marker date="1510215473000" expanded="false" signature="6:59" ph="..." />
+            <marker date="1510215473000" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
+            <marker date="1510215473000" expanded="true" signature="128:10445" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="135:629" ph="资源文件路径信息" />
+            <marker date="1510215473000" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
+            <marker date="1510215473000" expanded="true" signature="719:825" ph="是否读取存档" />
+            <marker date="1510215473000" expanded="true" signature="835:909" ph="存档名称" />
+            <marker date="1510215473000" expanded="true" signature="915:1015" ph="保存仓库场景中要显示的模型的名字" />
+            <marker date="1510215473000" expanded="true" signature="1021:1103" ph="保存游戏结束时间" />
+            <marker date="1510215473000" expanded="true" signature="1108:1233" ph="拼图步骤" />
+            <marker date="1510215473000" expanded="true" signature="1239:1361" ph="对话内容" />
+            <marker date="1510215473000" expanded="true" signature="1371:1491" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="1542:10442" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="1557:2125" ph="Sydney拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2135:2555" ph="Cabins拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2565:2950" ph="Library拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2960:3271" ph="SailBoat拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3281:3626" ph="Jeep拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3636:4113" ph="Bicycle拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4117:4438" ph="Carousel拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4442:7226" ph="初始化对话内容" />
+            <marker date="1510215473000" expanded="true" signature="4535:4734" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="4830:5417" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5521:5890" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5986:6217" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6315:6585" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6690:6885" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6988:7162" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="7244:8479" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="8489:9135" ph="初始化所有物品图片路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9145:9865" ph="初始化所有物品Prefab路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9875:10436" ph="初始化拼图结果预设体地址" />
           </folding>
         </state>
       </provider>
@@ -730,36 +631,38 @@
         <state relative-caret-position="936">
           <caret line="27" column="56" lean-forward="false" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
           <folding>
-            <marker date="1510155602965" expanded="true" signature="6:59" ph="..." />
-            <marker date="1510155602965" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
-            <marker date="1510155602965" expanded="true" signature="128:10250" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="135:629" ph="资源文件路径信息" />
-            <marker date="1510155602965" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
-            <marker date="1510155602965" expanded="true" signature="719:819" ph="保存仓库场景中要显示的模型的名字" />
-            <marker date="1510155602965" expanded="true" signature="825:908" ph="保存游戏结束时间" />
-            <marker date="1510155602965" expanded="true" signature="913:1038" ph="拼图步骤" />
-            <marker date="1510155602965" expanded="true" signature="1044:1166" ph="对话内容" />
-            <marker date="1510155602965" expanded="true" signature="1176:1296" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="1347:10247" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="1362:1930" ph="Sydney拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="1940:2360" ph="Cabins拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2370:2755" ph="Library拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2765:3076" ph="SailBoat拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3086:3431" ph="Jeep拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3441:3918" ph="Bicycle拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3922:4243" ph="Carousel拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="4247:7031" ph="初始化对话内容" />
-            <marker date="1510155602965" expanded="true" signature="4340:4539" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="4635:5222" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5326:5695" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5791:6022" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6120:6390" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6495:6690" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6793:6967" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="7049:8284" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="8294:8940" ph="初始化所有物品图片路径信息" />
-            <marker date="1510155602965" expanded="true" signature="8950:9670" ph="初始化所有物品Prefab路径信息" />
-            <marker date="1510155602965" expanded="true" signature="9680:10241" ph="初始化拼图结果预设体地址" />
+            <marker date="1510215473000" expanded="false" signature="6:59" ph="..." />
+            <marker date="1510215473000" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
+            <marker date="1510215473000" expanded="true" signature="128:10445" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="135:629" ph="资源文件路径信息" />
+            <marker date="1510215473000" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
+            <marker date="1510215473000" expanded="true" signature="719:825" ph="是否读取存档" />
+            <marker date="1510215473000" expanded="true" signature="835:909" ph="存档名称" />
+            <marker date="1510215473000" expanded="true" signature="915:1015" ph="保存仓库场景中要显示的模型的名字" />
+            <marker date="1510215473000" expanded="true" signature="1021:1103" ph="保存游戏结束时间" />
+            <marker date="1510215473000" expanded="true" signature="1108:1233" ph="拼图步骤" />
+            <marker date="1510215473000" expanded="true" signature="1239:1361" ph="对话内容" />
+            <marker date="1510215473000" expanded="true" signature="1371:1491" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="1542:10442" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="1557:2125" ph="Sydney拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2135:2555" ph="Cabins拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2565:2950" ph="Library拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2960:3271" ph="SailBoat拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3281:3626" ph="Jeep拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3636:4113" ph="Bicycle拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4117:4438" ph="Carousel拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4442:7226" ph="初始化对话内容" />
+            <marker date="1510215473000" expanded="true" signature="4535:4734" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="4830:5417" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5521:5890" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5986:6217" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6315:6585" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6690:6885" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6988:7162" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="7244:8479" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="8489:9135" ph="初始化所有物品图片路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9145:9865" ph="初始化所有物品Prefab路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9875:10436" ph="初始化拼图结果预设体地址" />
           </folding>
         </state>
       </provider>
@@ -775,12 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-          <folding>
-            <marker date="1510046950534" expanded="true" signature="6:113" ph="..." />
-            <marker date="1510046950534" expanded="true" signature="160:455" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="220:344" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="398:453" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,22 +693,22 @@
         <state relative-caret-position="792">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <marker date="1509865450215" expanded="false" signature="6:149" ph="..." />
-            <marker date="1509865450215" expanded="true" signature="152:220" ph="/// 用于抓取一个对象到物品栏，并且取消该物品与ImageTarget的绑定 ... " />
-            <marker date="1509865450215" expanded="true" signature="261:3339" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="268:355" ph="物品栏中的五个按钮中的Image引用" />
-            <marker date="1509865450215" expanded="true" signature="697:859" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="913:920" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="926:989" ph="/// 将当前活跃的模型添加到物品栏数组items中 ... " />
-            <marker date="1509865450215" expanded="true" signature="1023:3337" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1111:1151" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1271:1718" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1404:1573" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1606:1665" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1824:1908" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="2456:2509" ph="/* 加载对应的资源到内存中 ... */" />
-            <marker date="1509865450215" expanded="true" signature="2617:2910" ph="完成物品栏中图片的加载" />
-            <marker date="1509865450215" expanded="true" signature="2920:3331" ph="完成物品栏中对象的加载" />
+            <marker date="1510214179000" expanded="false" signature="6:149" ph="..." />
+            <marker date="1510214179000" expanded="true" signature="152:220" ph="/// 用于抓取一个对象到物品栏，并且取消该物品与ImageTarget的绑定 ... " />
+            <marker date="1510214179000" expanded="true" signature="261:3348" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="268:355" ph="物品栏中的五个按钮中的Image引用" />
+            <marker date="1510214179000" expanded="true" signature="697:859" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="913:920" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="926:989" ph="/// 将当前活跃的模型添加到物品栏数组items中 ... " />
+            <marker date="1510214179000" expanded="true" signature="1023:3346" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1111:1151" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1271:1718" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1404:1573" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1606:1665" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1824:1908" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="2465:2518" ph="/* 加载对应的资源到内存中 ... */" />
+            <marker date="1510214179000" expanded="true" signature="2626:2919" ph="完成物品栏中图片的加载" />
+            <marker date="1510214179000" expanded="true" signature="2929:3340" ph="完成物品栏中对象的加载" />
           </folding>
         </state>
       </provider>
@@ -820,15 +717,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510046950516" expanded="false" signature="6:133" ph="..." />
-            <marker date="1510046950516" expanded="true" signature="194:1285" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="587:777" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="832:1282" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="880:1278" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="888:1273" ph="显示要呈现的内容，每隔SHOWTIME秒显示一个字符" />
-            <marker date="1510046950516" expanded="true" signature="1041:1258" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -836,13 +725,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <marker date="1509801963600" expanded="false" signature="6:102" ph="..." />
-            <marker date="1509801963600" expanded="true" signature="149:707" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="419:471" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="525:702" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="619:695" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -850,14 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <marker date="1510069141373" expanded="false" signature="6:78" ph="..." />
-            <marker date="1510069141373" expanded="true" signature="133:470" ph="{...}" />
-            <marker date="1510069141373" expanded="true" signature="183:190" ph="{...}" />
-            <marker date="1510069141373" expanded="true" signature="245:252" ph="{...}" />
-            <marker date="1510069141373" expanded="true" signature="255:347" ph="/// 设置将要在仓库中显示的模型名字 ... " />
-            <marker date="1510069141373" expanded="true" signature="394:468" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,36 +741,38 @@
         <state relative-caret-position="756">
           <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding>
-            <marker date="1510155602965" expanded="true" signature="6:59" ph="..." />
-            <marker date="1510155602965" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
-            <marker date="1510155602965" expanded="true" signature="128:10250" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="135:629" ph="资源文件路径信息" />
-            <marker date="1510155602965" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
-            <marker date="1510155602965" expanded="true" signature="719:819" ph="保存仓库场景中要显示的模型的名字" />
-            <marker date="1510155602965" expanded="true" signature="825:908" ph="保存游戏结束时间" />
-            <marker date="1510155602965" expanded="true" signature="913:1038" ph="拼图步骤" />
-            <marker date="1510155602965" expanded="true" signature="1044:1166" ph="对话内容" />
-            <marker date="1510155602965" expanded="true" signature="1176:1296" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="1347:10247" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="1362:1930" ph="Sydney拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="1940:2360" ph="Cabins拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2370:2755" ph="Library拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2765:3076" ph="SailBoat拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3086:3431" ph="Jeep拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3441:3918" ph="Bicycle拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3922:4243" ph="Carousel拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="4247:7031" ph="初始化对话内容" />
-            <marker date="1510155602965" expanded="true" signature="4340:4539" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="4635:5222" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5326:5695" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5791:6022" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6120:6390" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6495:6690" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6793:6967" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="7049:8284" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="8294:8940" ph="初始化所有物品图片路径信息" />
-            <marker date="1510155602965" expanded="true" signature="8950:9670" ph="初始化所有物品Prefab路径信息" />
-            <marker date="1510155602965" expanded="true" signature="9680:10241" ph="初始化拼图结果预设体地址" />
+            <marker date="1510215473000" expanded="false" signature="6:59" ph="..." />
+            <marker date="1510215473000" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
+            <marker date="1510215473000" expanded="true" signature="128:10445" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="135:629" ph="资源文件路径信息" />
+            <marker date="1510215473000" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
+            <marker date="1510215473000" expanded="true" signature="719:825" ph="是否读取存档" />
+            <marker date="1510215473000" expanded="true" signature="835:909" ph="存档名称" />
+            <marker date="1510215473000" expanded="true" signature="915:1015" ph="保存仓库场景中要显示的模型的名字" />
+            <marker date="1510215473000" expanded="true" signature="1021:1103" ph="保存游戏结束时间" />
+            <marker date="1510215473000" expanded="true" signature="1108:1233" ph="拼图步骤" />
+            <marker date="1510215473000" expanded="true" signature="1239:1361" ph="对话内容" />
+            <marker date="1510215473000" expanded="true" signature="1371:1491" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="1542:10442" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="1557:2125" ph="Sydney拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2135:2555" ph="Cabins拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2565:2950" ph="Library拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2960:3271" ph="SailBoat拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3281:3626" ph="Jeep拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3636:4113" ph="Bicycle拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4117:4438" ph="Carousel拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4442:7226" ph="初始化对话内容" />
+            <marker date="1510215473000" expanded="true" signature="4535:4734" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="4830:5417" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5521:5890" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5986:6217" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6315:6585" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6690:6885" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6988:7162" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="7244:8479" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="8489:9135" ph="初始化所有物品图片路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9145:9865" ph="初始化所有物品Prefab路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9875:10436" ph="初始化拼图结果预设体地址" />
           </folding>
         </state>
       </provider>
@@ -904,15 +781,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <marker date="1510046950516" expanded="false" signature="6:133" ph="..." />
-            <marker date="1510046950516" expanded="true" signature="194:1285" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="587:777" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="832:1282" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="880:1278" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="888:1273" ph="显示要呈现的内容，每隔SHOWTIME秒显示一个字符" />
-            <marker date="1510046950516" expanded="true" signature="1041:1258" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -920,13 +789,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <marker date="1509801963600" expanded="false" signature="6:102" ph="..." />
-            <marker date="1509801963600" expanded="true" signature="149:707" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="419:471" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="525:702" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="619:695" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -934,12 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-          <folding>
-            <marker date="1510046950534" expanded="true" signature="6:113" ph="..." />
-            <marker date="1510046950534" expanded="true" signature="160:455" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="220:344" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="398:453" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -955,36 +812,38 @@
         <state relative-caret-position="2928">
           <caret line="122" column="39" lean-forward="false" selection-start-line="122" selection-start-column="39" selection-end-line="122" selection-end-column="39" />
           <folding>
-            <marker date="1510155602965" expanded="true" signature="6:59" ph="..." />
-            <marker date="1510155602965" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
-            <marker date="1510155602965" expanded="true" signature="128:10250" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="135:629" ph="资源文件路径信息" />
-            <marker date="1510155602965" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
-            <marker date="1510155602965" expanded="true" signature="719:819" ph="保存仓库场景中要显示的模型的名字" />
-            <marker date="1510155602965" expanded="true" signature="825:908" ph="保存游戏结束时间" />
-            <marker date="1510155602965" expanded="true" signature="913:1038" ph="拼图步骤" />
-            <marker date="1510155602965" expanded="true" signature="1044:1166" ph="对话内容" />
-            <marker date="1510155602965" expanded="true" signature="1176:1296" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="1347:10247" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="1362:1930" ph="Sydney拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="1940:2360" ph="Cabins拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2370:2755" ph="Library拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2765:3076" ph="SailBoat拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3086:3431" ph="Jeep拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3441:3918" ph="Bicycle拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3922:4243" ph="Carousel拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="4247:7031" ph="初始化对话内容" />
-            <marker date="1510155602965" expanded="true" signature="4340:4539" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="4635:5222" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5326:5695" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5791:6022" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6120:6390" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6495:6690" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6793:6967" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="7049:8284" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="8294:8940" ph="初始化所有物品图片路径信息" />
-            <marker date="1510155602965" expanded="true" signature="8950:9670" ph="初始化所有物品Prefab路径信息" />
-            <marker date="1510155602965" expanded="true" signature="9680:10241" ph="初始化拼图结果预设体地址" />
+            <marker date="1510215473000" expanded="false" signature="6:59" ph="..." />
+            <marker date="1510215473000" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
+            <marker date="1510215473000" expanded="true" signature="128:10445" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="135:629" ph="资源文件路径信息" />
+            <marker date="1510215473000" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
+            <marker date="1510215473000" expanded="true" signature="719:825" ph="是否读取存档" />
+            <marker date="1510215473000" expanded="true" signature="835:909" ph="存档名称" />
+            <marker date="1510215473000" expanded="true" signature="915:1015" ph="保存仓库场景中要显示的模型的名字" />
+            <marker date="1510215473000" expanded="true" signature="1021:1103" ph="保存游戏结束时间" />
+            <marker date="1510215473000" expanded="true" signature="1108:1233" ph="拼图步骤" />
+            <marker date="1510215473000" expanded="true" signature="1239:1361" ph="对话内容" />
+            <marker date="1510215473000" expanded="true" signature="1371:1491" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="1542:10442" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="1557:2125" ph="Sydney拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2135:2555" ph="Cabins拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2565:2950" ph="Library拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2960:3271" ph="SailBoat拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3281:3626" ph="Jeep拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3636:4113" ph="Bicycle拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4117:4438" ph="Carousel拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4442:7226" ph="初始化对话内容" />
+            <marker date="1510215473000" expanded="true" signature="4535:4734" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="4830:5417" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5521:5890" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5986:6217" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6315:6585" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6690:6885" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6988:7162" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="7244:8479" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="8489:9135" ph="初始化所有物品图片路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9145:9865" ph="初始化所有物品Prefab路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9875:10436" ph="初始化拼图结果预设体地址" />
           </folding>
         </state>
       </provider>
@@ -1001,75 +860,38 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1510155602965" expanded="true" signature="6:59" ph="..." />
-            <marker date="1510155602965" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
-            <marker date="1510155602965" expanded="true" signature="128:10250" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="135:629" ph="资源文件路径信息" />
-            <marker date="1510155602965" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
-            <marker date="1510155602965" expanded="true" signature="719:819" ph="保存仓库场景中要显示的模型的名字" />
-            <marker date="1510155602965" expanded="true" signature="825:908" ph="保存游戏结束时间" />
-            <marker date="1510155602965" expanded="true" signature="913:1038" ph="拼图步骤" />
-            <marker date="1510155602965" expanded="true" signature="1044:1166" ph="对话内容" />
-            <marker date="1510155602965" expanded="true" signature="1176:1296" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="1347:10247" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="1362:1930" ph="Sydney拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="1940:2360" ph="Cabins拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2370:2755" ph="Library拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2765:3076" ph="SailBoat拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3086:3431" ph="Jeep拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3441:3918" ph="Bicycle拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3922:4243" ph="Carousel拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="4247:7031" ph="初始化对话内容" />
-            <marker date="1510155602965" expanded="true" signature="4340:4539" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="4635:5222" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5326:5695" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5791:6022" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6120:6390" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6495:6690" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6793:6967" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="7049:8284" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="8294:8940" ph="初始化所有物品图片路径信息" />
-            <marker date="1510155602965" expanded="true" signature="8950:9670" ph="初始化所有物品Prefab路径信息" />
-            <marker date="1510155602965" expanded="true" signature="9680:10241" ph="初始化拼图结果预设体地址" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510155602965" expanded="true" signature="6:59" ph="..." />
-            <marker date="1510155602965" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
-            <marker date="1510155602965" expanded="true" signature="128:10250" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="135:629" ph="资源文件路径信息" />
-            <marker date="1510155602965" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
-            <marker date="1510155602965" expanded="true" signature="719:819" ph="保存仓库场景中要显示的模型的名字" />
-            <marker date="1510155602965" expanded="true" signature="825:908" ph="保存游戏结束时间" />
-            <marker date="1510155602965" expanded="true" signature="913:1038" ph="拼图步骤" />
-            <marker date="1510155602965" expanded="true" signature="1044:1166" ph="对话内容" />
-            <marker date="1510155602965" expanded="true" signature="1176:1296" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="1347:10247" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="1362:1930" ph="Sydney拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="1940:2360" ph="Cabins拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2370:2755" ph="Library拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2765:3076" ph="SailBoat拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3086:3431" ph="Jeep拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3441:3918" ph="Bicycle拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3922:4243" ph="Carousel拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="4247:7031" ph="初始化对话内容" />
-            <marker date="1510155602965" expanded="true" signature="4340:4539" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="4635:5222" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5326:5695" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5791:6022" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6120:6390" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6495:6690" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6793:6967" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="7049:8284" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="8294:8940" ph="初始化所有物品图片路径信息" />
-            <marker date="1510155602965" expanded="true" signature="8950:9670" ph="初始化所有物品Prefab路径信息" />
-            <marker date="1510155602965" expanded="true" signature="9680:10241" ph="初始化拼图结果预设体地址" />
+            <marker date="1510215473000" expanded="false" signature="6:59" ph="..." />
+            <marker date="1510215473000" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
+            <marker date="1510215473000" expanded="true" signature="128:10445" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="135:629" ph="资源文件路径信息" />
+            <marker date="1510215473000" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
+            <marker date="1510215473000" expanded="true" signature="719:825" ph="是否读取存档" />
+            <marker date="1510215473000" expanded="true" signature="835:909" ph="存档名称" />
+            <marker date="1510215473000" expanded="true" signature="915:1015" ph="保存仓库场景中要显示的模型的名字" />
+            <marker date="1510215473000" expanded="true" signature="1021:1103" ph="保存游戏结束时间" />
+            <marker date="1510215473000" expanded="true" signature="1108:1233" ph="拼图步骤" />
+            <marker date="1510215473000" expanded="true" signature="1239:1361" ph="对话内容" />
+            <marker date="1510215473000" expanded="true" signature="1371:1491" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="1542:10442" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="1557:2125" ph="Sydney拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2135:2555" ph="Cabins拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2565:2950" ph="Library拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2960:3271" ph="SailBoat拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3281:3626" ph="Jeep拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3636:4113" ph="Bicycle拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4117:4438" ph="Carousel拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4442:7226" ph="初始化对话内容" />
+            <marker date="1510215473000" expanded="true" signature="4535:4734" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="4830:5417" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5521:5890" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5986:6217" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6315:6585" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6690:6885" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6988:7162" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="7244:8479" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="8489:9135" ph="初始化所有物品图片路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9145:9865" ph="初始化所有物品Prefab路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9875:10436" ph="初始化拼图结果预设体地址" />
           </folding>
         </state>
       </provider>
@@ -1102,52 +924,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <marker date="1510069141373" expanded="false" signature="6:78" ph="..." />
-            <marker date="1510069141373" expanded="true" signature="133:470" ph="{...}" />
-            <marker date="1510069141373" expanded="true" signature="183:190" ph="{...}" />
-            <marker date="1510069141373" expanded="true" signature="245:252" ph="{...}" />
-            <marker date="1510069141373" expanded="true" signature="255:347" ph="/// 设置将要在仓库中显示的模型名字 ... " />
-            <marker date="1510069141373" expanded="true" signature="394:468" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <marker date="1509888039539" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
-            <marker date="1509888039539" expanded="false" signature="374:401" ph="..." />
-            <marker date="1509888039539" expanded="true" signature="403:510" ph="///     A custom handler that implements the ITrackableEventHandler interface. ... " />
-            <marker date="1509888039539" expanded="true" signature="592:7275" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="599:781" ph="公共变量" />
-            <marker date="1509888039539" expanded="true" signature="787:1147" ph="PRIVATE_MEMBER_VARIABLES" />
-            <marker date="1509888039539" expanded="true" signature="1153:1537" ph="UNTIY_MONOBEHAVIOUR_METHODS" />
-            <marker date="1509888039539" expanded="true" signature="1224:1490" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="1543:2792" ph="PUBLIC_METHODS" />
-            <marker date="1509888039539" expanded="true" signature="1572:1722" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
-            <marker date="1509888039539" expanded="true" signature="1858:2758" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2058:2193" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2332:2465" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2478:2752" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2501:2712" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
-            <marker date="1509888039539" expanded="true" signature="2798:6741" ph="PRIVATE_METHODS" />
-            <marker date="1509888039539" expanded="true" signature="2867:5807" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="2874:3201" ph="/* 如果是第一次发现该对象并且该对象已经激活，则进行一些操作，让屏幕中心的对象消失 ... */" />
-            <marker date="1509888039539" expanded="true" signature="3794:4012" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
-            <marker date="1509888039539" expanded="true" signature="4022:5801" ph="进行拼图处理" />
-            <marker date="1509888039539" expanded="true" signature="4179:4239" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="4450:5650" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="4894:4989" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="5449:5640" ph="拼图完成处理" />
-            <marker date="1509888039539" expanded="true" signature="5524:5616" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="5675:5780" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="5853:6706" ph="{...}" />
-            <marker date="1509888039539" expanded="true" signature="6447:6700" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
-            <marker date="1509888039539" expanded="true" signature="6743:7273" ph="/*    /// 取消传入的GameObject对象数组中所有对象的激活 ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1155,91 +931,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510046950516" expanded="false" signature="6:133" ph="..." />
-            <marker date="1510046950516" expanded="true" signature="194:1285" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="587:777" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="832:1282" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="880:1278" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="888:1273" ph="显示要呈现的内容，每隔SHOWTIME秒显示一个字符" />
-            <marker date="1510046950516" expanded="true" signature="1041:1258" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/FadeOut.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Script/AutoChangeScene.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
+        <state relative-caret-position="720">
           <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <marker date="1509801963600" expanded="false" signature="6:102" ph="..." />
-            <marker date="1509801963600" expanded="true" signature="149:707" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="419:471" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="525:702" ph="{...}" />
-            <marker date="1509801963600" expanded="true" signature="619:695" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/SplashLoad.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2304">
-          <caret line="108" column="27" lean-forward="false" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
-          <folding>
-            <marker date="1510143319564" expanded="true" signature="6:79" ph="..." />
-            <marker date="1510143319564" expanded="true" signature="80:151" ph="/* 使用方法：将该脚本附在镜头下面，然后切换场景时镜头不销毁 ... */" />
-            <marker date="1510143319564" expanded="true" signature="298:356" ph="/* 将要加载的场景序号 ... */" />
-            <marker date="1510143319564" expanded="false" signature="897:976" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="1083:1164" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="1310:1358" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="1464:2269" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="1528:1819" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="1832:2017" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="2081:2141" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2183:2263" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2351:2453" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2529:2631" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2708:2866" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="2919:2968" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="3000:3381" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="3025:3375" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="3399:4197" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="3430:4191" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="3713:3799" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="3952:4158" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4011:4090" ph="{...}" />
-            <marker date="1510143319564" expanded="false" signature="4215:5396" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4284:4456" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4482:5061" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4678:5051" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="4785:5037" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="5087:5390" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="5164:5333" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="5227:5319" ph="{...}" />
-            <marker date="1510143319564" expanded="true" signature="5350:5380" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/CurrentItemChoiced.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
+        <state relative-caret-position="1080">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <marker date="1509689950340" expanded="false" signature="6:100" ph="..." />
-            <marker date="1509689950340" expanded="true" signature="150:1949" ph="{...}" />
-            <marker date="1509689950340" expanded="true" signature="157:369" ph="公共变量" />
-            <marker date="1509689950340" expanded="true" signature="375:404" ph="私有变量" />
-            <marker date="1509689950340" expanded="true" signature="410:449" ph="私有成员变量的属性" />
-            <marker date="1509689950340" expanded="true" signature="504:511" ph="{...}" />
-            <marker date="1509689950340" expanded="true" signature="566:573" ph="{...}" />
-            <marker date="1509689950340" expanded="true" signature="579:630" ph="/// 选中当前物品栏中物品 ... " />
-            <marker date="1509689950340" expanded="true" signature="666:1418" ph="{...}" />
-            <marker date="1509689950340" expanded="true" signature="866:1411" ph="/* 使另外五个物品栏按钮的不透明 ... */" />
-            <marker date="1509689950340" expanded="true" signature="1424:1947" ph="私有方法" />
-            <marker date="1509689950340" expanded="true" signature="1438:1931" ph="/*    /// 使传入的按钮对象透明 ... */" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1247,41 +956,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <marker date="1509857587384" expanded="false" signature="6:100" ph="..." />
-            <marker date="1509857587384" expanded="true" signature="143:1857" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="150:307" ph="公共属性" />
-            <marker date="1509857587384" expanded="true" signature="313:387" ph="私有属性" />
-            <marker date="1509857587384" expanded="true" signature="393:1725" ph="公共方法" />
-            <marker date="1509857587384" expanded="true" signature="411:464" ph="/// 重物品栏中删除选中的物品 ... " />
-            <marker date="1509857587384" expanded="true" signature="511:1146" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="676:754" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="779:1140" ph="将图片数组中的图片换成item_box" />
-            <marker date="1509857587384" expanded="true" signature="816:909" ph="/* 销毁原来的精灵图片 ... */" />
-            <marker date="1509857587384" expanded="true" signature="1152:1211" ph="/// 激活选中物品的ImageTarget ... " />
-            <marker date="1509857587384" expanded="true" signature="1254:1709" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="1320:1398" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="1553:1613" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="1780:1788" ph="{...}" />
-            <marker date="1509857587384" expanded="true" signature="1848:1855" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/LoadingAsyn.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
+        <state relative-caret-position="1248">
           <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding>
-            <marker date="1509803754927" expanded="false" signature="6:149" ph="..." />
-            <marker date="1509803754927" expanded="true" signature="191:1114" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="451:615" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="669:790" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="749:787" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="808:982" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="863:976" ph="{...}" />
-            <marker date="1509803754927" expanded="true" signature="1011:1112" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1289,90 +971,343 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/GameOverScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/QuitGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1510046950534" expanded="true" signature="6:113" ph="..." />
-            <marker date="1510046950534" expanded="true" signature="160:455" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="220:344" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="398:453" ph="{...}" />
+            <marker date="1509945737000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1509945737000" expanded="true" signature="118:537" ph="{...}" />
+            <marker date="1509945737000" expanded="true" signature="174:187" ph="{...}" />
+            <marker date="1509945737000" expanded="true" signature="229:310" ph="{...}" />
+            <marker date="1509945737000" expanded="true" signature="348:534" ph="{...}" />
+            <marker date="1509945737000" expanded="true" signature="445:528" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/QuitButtonListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <marker date="1509945737000" expanded="false" signature="6:113" ph="..." />
+            <marker date="1509945737000" expanded="true" signature="164:396" ph="{...}" />
+            <marker date="1509945737000" expanded="true" signature="214:221" ph="{...}" />
+            <marker date="1509945737000" expanded="true" signature="276:283" ph="{...}" />
+            <marker date="1509945737000" expanded="true" signature="318:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameTimeScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="39" column="4" lean-forward="false" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SaveGameDataScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/ModelToShowInRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510208901000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1510208901000" expanded="true" signature="133:470" ph="{...}" />
+            <marker date="1510208901000" expanded="true" signature="183:190" ph="{...}" />
+            <marker date="1510208901000" expanded="true" signature="245:252" ph="{...}" />
+            <marker date="1510208901000" expanded="true" signature="255:347" ph="/// 设置将要在仓库中显示的模型名字 ... " />
+            <marker date="1510208901000" expanded="true" signature="394:468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/SplashLoad.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4606">
+          <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+          <folding>
+            <marker date="1510206777000" expanded="false" signature="6:79" ph="..." />
+            <marker date="1510206777000" expanded="true" signature="80:151" ph="/* 使用方法：将该脚本附在镜头下面，然后切换场景时镜头不销毁 ... */" />
+            <marker date="1510206777000" expanded="true" signature="207:5398" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="298:356" ph="/* 将要加载的场景序号 ... */" />
+            <marker date="1510206777000" expanded="true" signature="897:976" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="1083:1164" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="1310:1358" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="1464:2269" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="1528:1819" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="1832:2017" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="2081:2141" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="2183:2263" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="2351:2453" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="2529:2631" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="2708:2866" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="2919:2968" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="3000:3381" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="3025:3375" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="3399:4197" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="3430:4191" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="3713:3799" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="3952:4158" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="4011:4090" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="4215:5396" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="4284:4456" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="4482:5061" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="4678:5051" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="4785:5037" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="5087:5390" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="5164:5333" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="5227:5319" ph="{...}" />
+            <marker date="1510206777000" expanded="true" signature="5350:5380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/GameData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <marker date="1510209987000" expanded="true" signature="6:127" ph="..." />
+            <marker date="1510209987000" expanded="true" signature="150:329" ph="{...}" />
+            <marker date="1510209987000" expanded="true" signature="155:327" ph="游戏存档内容" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/LoadUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <marker date="1509945737000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1509945737000" expanded="true" signature="119:945" ph="{...}" />
+            <marker date="1509945737000" expanded="true" signature="126:943" ph="对外静态公共方法" />
+            <marker date="1509945737000" expanded="true" signature="148:301" ph="/// 从Rescource资源文件夹的指定位置加载Sprite图片 ... " />
+            <marker date="1509945737000" expanded="true" signature="363:540" ph="{...}" />
+            <marker date="1509945737000" expanded="true" signature="546:696" ph="/// 从Rescource资源文件夹的指定位置加载预设体对象 ... " />
+            <marker date="1509945737000" expanded="true" signature="762:927" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/GameTimeScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <marker date="1510213139000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1510213139000" expanded="true" signature="123:669" ph="{...}" />
+            <marker date="1510213139000" expanded="true" signature="130:199" ph="私有变量" />
+            <marker date="1510213139000" expanded="true" signature="252:315" ph="{...}" />
+            <marker date="1510213139000" expanded="true" signature="373:667" ph="{...}" />
+            <marker date="1510213139000" expanded="true" signature="388:661" ph="每隔1秒统计游戏时间" />
+            <marker date="1510213139000" expanded="true" signature="568:641" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CurrentSenceDataShare.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="24" column="60" lean-forward="false" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+          <folding>
+            <marker date="1510213133000" expanded="false" signature="6:114" ph="..." />
+            <marker date="1510213133000" expanded="true" signature="116:162" ph="/// 保存本场景中的一些共享数据 ... " />
+            <marker date="1510213133000" expanded="true" signature="213:4996" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="220:301" ph="公共变量" />
+            <marker date="1510213133000" expanded="true" signature="689:774" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="817:890" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="953:1009" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="1058:1118" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="1124:4825" ph="对外公共方法" />
+            <marker date="1510213133000" expanded="true" signature="1144:2712" ph="对物品栏中对象的操作" />
+            <marker date="1510213133000" expanded="true" signature="1168:1279" ph="/// 激活物品栏中position处的对象 ... " />
+            <marker date="1510213133000" expanded="true" signature="1341:1491" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="1402:1485" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="1497:1551" ph="/// 取消激活物品栏中的所有对象 ... " />
+            <marker date="1510213133000" expanded="true" signature="1598:1852" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="1676:1846" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="1758:1836" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="1858:2013" ph="/// 增加游戏对象gameObject到position处 ... " />
+            <marker date="1510213133000" expanded="true" signature="2089:2161" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="2167:2238" ph="/// 删除物品栏游戏对象中当前已经激活的对象，也就是目前选中的对象 ... " />
+            <marker date="1510213133000" expanded="true" signature="2286:2696" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="2357:2690" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="2497:2680" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="2718:3357" ph="对取消激活的ImageTarget对象的操作" />
+            <marker date="1510213133000" expanded="true" signature="2754:2869" ph="/// 激活name对应的ImageTarget ... " />
+            <marker date="1510213133000" expanded="true" signature="2922:3341" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="2985:3103" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="3363:3734" ph="对当前物品栏中ImageTarget对象名称的操作" />
+            <marker date="1510213133000" expanded="true" signature="3402:3546" ph="/// 移除指定位置的物品栏中存的物品名称 ... " />
+            <marker date="1510213133000" expanded="true" signature="3599:3718" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="3740:4809" ph="当前激活（选中）的物品栏中游戏对象的操作" />
+            <marker date="1510213133000" expanded="true" signature="3774:3901" ph="/// 返回当前激活（选中）对象的索引，如果没有激活对象则返回值为-1 ... " />
+            <marker date="1510213133000" expanded="true" signature="3949:4273" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="4020:4247" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="4160:4237" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="4279:4410" ph="/// 返回当前激活（选中）对象的名称，如果没有激活对象则返回值null ... " />
+            <marker date="1510213133000" expanded="true" signature="4460:4793" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="4531:4765" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="4671:4755" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="4878:4890" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="4948:4960" ph="{...}" />
+            <marker date="1510213133000" expanded="true" signature="4966:4994" ph="私有方法" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/CatchAModel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="1791">
+          <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="86" selection-end-column="87" />
           <folding>
-            <marker date="1509865450215" expanded="false" signature="6:149" ph="..." />
-            <marker date="1509865450215" expanded="true" signature="152:220" ph="/// 用于抓取一个对象到物品栏，并且取消该物品与ImageTarget的绑定 ... " />
-            <marker date="1509865450215" expanded="true" signature="261:3339" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="268:355" ph="物品栏中的五个按钮中的Image引用" />
-            <marker date="1509865450215" expanded="true" signature="697:859" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="913:920" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="926:989" ph="/// 将当前活跃的模型添加到物品栏数组items中 ... " />
-            <marker date="1509865450215" expanded="true" signature="1023:3337" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1111:1151" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1271:1718" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1404:1573" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1606:1665" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="1824:1908" ph="{...}" />
-            <marker date="1509865450215" expanded="true" signature="2456:2509" ph="/* 加载对应的资源到内存中 ... */" />
-            <marker date="1509865450215" expanded="true" signature="2617:2910" ph="完成物品栏中图片的加载" />
-            <marker date="1509865450215" expanded="true" signature="2920:3331" ph="完成物品栏中对象的加载" />
+            <marker date="1510214179000" expanded="false" signature="6:149" ph="..." />
+            <marker date="1510214179000" expanded="true" signature="152:220" ph="/// 用于抓取一个对象到物品栏，并且取消该物品与ImageTarget的绑定 ... " />
+            <marker date="1510214179000" expanded="true" signature="261:3348" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="268:355" ph="物品栏中的五个按钮中的Image引用" />
+            <marker date="1510214179000" expanded="true" signature="697:859" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="913:920" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="926:989" ph="/// 将当前活跃的模型添加到物品栏数组items中 ... " />
+            <marker date="1510214179000" expanded="true" signature="1023:3346" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1111:1151" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1271:1718" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1404:1573" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1606:1665" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="1824:1908" ph="{...}" />
+            <marker date="1510214179000" expanded="true" signature="2465:2518" ph="/* 加载对应的资源到内存中 ... */" />
+            <marker date="1510214179000" expanded="true" signature="2626:2919" ph="完成物品栏中图片的加载" />
+            <marker date="1510214179000" expanded="true" signature="2929:3340" ph="完成物品栏中对象的加载" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <marker date="1510215208000" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
+            <marker date="1510215208000" expanded="false" signature="374:401" ph="..." />
+            <marker date="1510215208000" expanded="true" signature="403:510" ph="///     A custom handler that implements the ITrackableEventHandler interface. ... " />
+            <marker date="1510215208000" expanded="true" signature="592:7408" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="599:781" ph="公共变量" />
+            <marker date="1510215208000" expanded="true" signature="787:1149" ph="PRIVATE_MEMBER_VARIABLES" />
+            <marker date="1510215208000" expanded="true" signature="1155:1670" ph="UNTIY_MONOBEHAVIOUR_METHODS" />
+            <marker date="1510215208000" expanded="true" signature="1226:1623" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="1296:1354" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="1676:2925" ph="PUBLIC_METHODS" />
+            <marker date="1510215208000" expanded="true" signature="1705:1855" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
+            <marker date="1510215208000" expanded="true" signature="1991:2891" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="2191:2326" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="2465:2598" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="2611:2885" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="2634:2845" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
+            <marker date="1510215208000" expanded="true" signature="2931:6874" ph="PRIVATE_METHODS" />
+            <marker date="1510215208000" expanded="true" signature="3000:5940" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="3007:3334" ph="/* 如果是第一次发现该对象并且该对象已经激活，则进行一些操作，让屏幕中心的对象消失 ... */" />
+            <marker date="1510215208000" expanded="true" signature="3927:4145" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
+            <marker date="1510215208000" expanded="true" signature="4155:5934" ph="进行拼图处理" />
+            <marker date="1510215208000" expanded="true" signature="4312:4372" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="4583:5783" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="5027:5122" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="5582:5773" ph="拼图完成处理" />
+            <marker date="1510215208000" expanded="true" signature="5657:5749" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="5808:5913" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="5986:6839" ph="{...}" />
+            <marker date="1510215208000" expanded="true" signature="6580:6833" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
+            <marker date="1510215208000" expanded="true" signature="6876:7406" ph="/*    /// 取消传入的GameObject对象数组中所有对象的激活 ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="33" selection-start-column="49" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="383">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <marker date="1510155602965" expanded="true" signature="6:59" ph="..." />
-            <marker date="1510155602965" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
-            <marker date="1510155602965" expanded="true" signature="128:10250" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="135:629" ph="资源文件路径信息" />
-            <marker date="1510155602965" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
-            <marker date="1510155602965" expanded="true" signature="719:819" ph="保存仓库场景中要显示的模型的名字" />
-            <marker date="1510155602965" expanded="true" signature="825:908" ph="保存游戏结束时间" />
-            <marker date="1510155602965" expanded="true" signature="913:1038" ph="拼图步骤" />
-            <marker date="1510155602965" expanded="true" signature="1044:1166" ph="对话内容" />
-            <marker date="1510155602965" expanded="true" signature="1176:1296" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="1347:10247" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="1362:1930" ph="Sydney拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="1940:2360" ph="Cabins拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2370:2755" ph="Library拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="2765:3076" ph="SailBoat拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3086:3431" ph="Jeep拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3441:3918" ph="Bicycle拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="3922:4243" ph="Carousel拼图步骤初始化" />
-            <marker date="1510155602965" expanded="true" signature="4247:7031" ph="初始化对话内容" />
-            <marker date="1510155602965" expanded="true" signature="4340:4539" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="4635:5222" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5326:5695" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="5791:6022" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6120:6390" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6495:6690" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="6793:6967" ph="{...}" />
-            <marker date="1510155602965" expanded="true" signature="7049:8284" ph="模型介绍" />
-            <marker date="1510155602965" expanded="true" signature="8294:8940" ph="初始化所有物品图片路径信息" />
-            <marker date="1510155602965" expanded="true" signature="8950:9670" ph="初始化所有物品Prefab路径信息" />
-            <marker date="1510155602965" expanded="true" signature="9680:10241" ph="初始化拼图结果预设体地址" />
+            <marker date="1510215473000" expanded="false" signature="6:59" ph="..." />
+            <marker date="1510215473000" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
+            <marker date="1510215473000" expanded="true" signature="128:10445" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="135:629" ph="资源文件路径信息" />
+            <marker date="1510215473000" expanded="true" signature="635:713" ph="保存下一个要加载的场景名称" />
+            <marker date="1510215473000" expanded="true" signature="719:825" ph="是否读取存档" />
+            <marker date="1510215473000" expanded="true" signature="835:909" ph="存档名称" />
+            <marker date="1510215473000" expanded="true" signature="915:1015" ph="保存仓库场景中要显示的模型的名字" />
+            <marker date="1510215473000" expanded="true" signature="1021:1103" ph="保存游戏结束时间" />
+            <marker date="1510215473000" expanded="true" signature="1108:1233" ph="拼图步骤" />
+            <marker date="1510215473000" expanded="true" signature="1239:1361" ph="对话内容" />
+            <marker date="1510215473000" expanded="true" signature="1371:1491" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="1542:10442" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="1557:2125" ph="Sydney拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2135:2555" ph="Cabins拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2565:2950" ph="Library拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="2960:3271" ph="SailBoat拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3281:3626" ph="Jeep拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="3636:4113" ph="Bicycle拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4117:4438" ph="Carousel拼图步骤初始化" />
+            <marker date="1510215473000" expanded="true" signature="4442:7226" ph="初始化对话内容" />
+            <marker date="1510215473000" expanded="true" signature="4535:4734" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="4830:5417" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5521:5890" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="5986:6217" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6315:6585" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6690:6885" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="6988:7162" ph="{...}" />
+            <marker date="1510215473000" expanded="true" signature="7244:8479" ph="模型介绍" />
+            <marker date="1510215473000" expanded="true" signature="8489:9135" ph="初始化所有物品图片路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9145:9865" ph="初始化所有物品Prefab路径信息" />
+            <marker date="1510215473000" expanded="true" signature="9875:10436" ph="初始化拼图结果预设体地址" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/GameOverScript.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/SaveGameDataScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="864">
+          <caret line="40" column="57" lean-forward="false" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
           <folding>
-            <marker date="1510156002618" expanded="true" signature="6:114" ph="..." />
-            <marker date="1510156002618" expanded="true" signature="160:574" ph="{...}" />
-            <marker date="1510156002618" expanded="true" signature="251:510" ph="{...}" />
-            <marker date="1510156002618" expanded="true" signature="300:467" ph="{...}" />
-            <marker date="1510156002618" expanded="true" signature="474:507" ph="{...}" />
-            <marker date="1510156002618" expanded="true" signature="565:572" ph="{...}" />
+            <marker date="1510215775000" expanded="false" signature="6:122" ph="..." />
+            <marker date="1510215775000" expanded="true" signature="171:1443" ph="{...}" />
+            <marker date="1510215775000" expanded="true" signature="284:291" ph="{...}" />
+            <marker date="1510215775000" expanded="true" signature="346:353" ph="{...}" />
+            <marker date="1510215775000" expanded="true" signature="356:398" ph="/// 保存游戏的存档 ... " />
+            <marker date="1510215775000" expanded="true" signature="442:1031" ph="{...}" />
+            <marker date="1510215775000" expanded="true" signature="507:526" ph="{...}" />
+            <marker date="1510215775000" expanded="true" signature="1035:1101" ph="/// 读取游戏存档 ... " />
+            <marker date="1510215775000" expanded="true" signature="1132:1439" ph="{...}" />
+            <marker date="1510215775000" expanded="true" signature="1291:1344" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/InitialGameScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <marker date="1510215281000" expanded="true" signature="6:100" ph="..." />
+            <marker date="1510215281000" expanded="true" signature="148:2536" ph="{...}" />
+            <marker date="1510215281000" expanded="true" signature="388:2533" ph="{...}" />
+            <marker date="1510215281000" expanded="false" signature="467:2445" ph="{...}" />
+            <marker date="1510215281000" expanded="true" signature="490:2435" ph="恢复游戏存档场景" />
+            <marker date="1510215281000" expanded="true" signature="977:2304" ph="{...}" />
+            <marker date="1510215281000" expanded="true" signature="1064:2290" ph="{...}" />
+            <marker date="1510215281000" expanded="true" signature="1351:1885" ph="恢复物品栏中对象的引用" />
           </folding>
         </state>
       </provider>

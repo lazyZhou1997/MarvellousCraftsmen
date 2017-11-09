@@ -28,7 +28,7 @@ public class TerrainTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
     protected TrackableBehaviour mTrackableBehaviour;
 
-    private int _currentCodeOfPuzzle = 1;//当前拼图编号，初始为1
+    public static int _currentCodeOfPuzzle;//当前拼图编号，初始为1
     private int _endCodeOfPuzzle;//完成时的拼图编号，在Start方法中被初始化
     private GameObject puzzleResult;//拼图成功后的对象持有
 
@@ -39,6 +39,11 @@ public class TerrainTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
     protected virtual void Start()
     {
+        if (!ConfigureClass.isreadGameData)//如果不继续拼图，则拼图步骤初始化为1
+        {
+            _currentCodeOfPuzzle = 1;
+        }
+        
         _endCodeOfPuzzle = ConfigureClass.puzzleStep[currentSceneName];//初始化完成时的拼图编号
 
         mTrackableBehaviour = GetComponent<TrackableBehaviour>();
