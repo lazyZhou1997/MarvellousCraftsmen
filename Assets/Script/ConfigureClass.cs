@@ -28,6 +28,12 @@ public class ConfigureClass {
     public static string showModelInRepository = "sydney";
 
     #endregion
+
+    #region 保存游戏结束时间
+
+    public static float finishTime = -1;//完成游戏的时间
+
+    #endregion
     #region 拼图步骤
 
     public static Dictionary<string,int> puzzleStep = new Dictionary<string, int>();//悉尼歌剧院拼图步骤

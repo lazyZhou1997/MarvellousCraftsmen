@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 /*
  * 使用方法：将该脚本附在镜头下面，然后切换场景时镜头不销毁
  * 要调用的时候获得该脚本，然后调用StartSplash（）
@@ -103,8 +104,23 @@ public class SplashLoad : MonoBehaviour
         status = FadeStatus.FadeIn;
         levelToLoad = nextScene;
         SetValue(i);
-
     }
+    //开始淡出效果，菜单类型界面切换用
+    public void StartSplashDefault(string nextScene)
+    {
+        status = FadeStatus.FadeIn;
+        levelToLoad = nextScene;
+        SetValue(2);
+    }
+    //开始淡出效果，进入游戏时切换用
+    public void StartSplashGameScene(string nextScene)
+    {
+        ConfigureClass.nextSceneName = nextScene;
+        status = FadeStatus.FadeIn;
+        levelToLoad = "dialogueScene";
+        SetValue(1);
+    }
+
 
     public void setIsDealPlayer(bool isDealPlayer)
     {
