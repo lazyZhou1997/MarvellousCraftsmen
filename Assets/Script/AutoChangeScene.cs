@@ -22,7 +22,7 @@ public class AutoChangeScene : MonoBehaviour {
     }
 	
 	// Update is called once per frame
-	void Update ()
+	void. Update ()
 	{
 	    float deltTime = Time.time - beginTime;//从开始到现在经历的时间
 
