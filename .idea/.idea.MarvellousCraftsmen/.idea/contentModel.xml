@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_MarvellousCraftsmen.558175660.00" t="ExcludeRecursive" />
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+    <e p="C:\Users\Admin\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_MarvellousCraftsmen.1501282261.00" t="ExcludeRecursive" />
+    <e p="F:\unity\MarvellousCraftsmen" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
@@ -11,6 +11,7 @@
         <e p="introbutton.cs" t="Include" />
         <e p="license_3rdpartynotice.txt" t="Include" />
         <e p="link.xml" t="Include" />
+        <e p="ModelToShowInRepository.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="Editor" t="Include">
             <e p="JetBrains" t="Include">
@@ -24,29 +25,27 @@
           <e p="BallRotateScript.cs" t="Include" />
           <e p="ButtonPressed.cs" t="Include" />
           <e p="CatchAModel.cs" t="Include" />
+          <e p="ChoiceArchieveScript.cs" t="Include" />
           <e p="ClickSoundButton.cs" t="Include" />
           <e p="ConfigureClass.cs" t="Include" />
+          <e p="ContinueGameScript.cs" t="Include" />
           <e p="CurrentItemChoiced.cs" t="Include" />
           <e p="CurrentSenceDataShare.cs" t="Include" />
+          <e p="DeleteCurrentArchieveScript.cs" t="Include" />
           <e p="DestoryItem.cs" t="Include" />
           <e p="Dialogue.cs" t="Include" />
           <e p="DisassociateScrip.cs" t="Include" />
-          <e p="GameData.cs" t="Include" />
           <e p="GameOverScript.cs" t="Include" />
-          <e p="GameTimeScript.cs" t="Include" />
-          <e p="InitialGameScript.cs" t="Include" />
           <e p="InitilizatinARScript.cs" t="Include" />
           <e p="LoadDialogOfCurrentScene.cs" t="Include" />
           <e p="LoadingAsyn.cs" t="Include" />
           <e p="LoadIntroductionOfCurrentScene.cs" t="Include" />
           <e p="LoadSceneScript.cs" t="Include" />
           <e p="LoadUtils.cs" t="Include" />
-          <e p="ModelToShowInRepository.cs" t="Include" />
           <e p="PanelListener.cs" t="Include" />
           <e p="PlayGameMusic.cs" t="Include" />
           <e p="QuitButtonListener.cs" t="Include" />
           <e p="QuitGame.cs" t="Include" />
-          <e p="SaveGameDataScript.cs" t="Include" />
           <e p="ScaleAndRotate.cs" t="Include" />
           <e p="ShowRepository.cs" t="Include" />
           <e p="SplashLoad.cs" t="Include" />
