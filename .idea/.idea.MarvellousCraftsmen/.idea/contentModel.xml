@@ -41,6 +41,7 @@
           <e p="InitilizatinARScript.cs" t="Include" />
           <e p="LoadDialogOfCurrentScene.cs" t="Include" />
           <e p="LoadingAsyn.cs" t="Include" />
+          <e p="LoadIntroductionOfCurrentRepository.cs" t="Include" />
           <e p="LoadIntroductionOfCurrentScene.cs" t="Include" />
           <e p="LoadSceneScript.cs" t="Include" />
           <e p="LoadUtils.cs" t="Include" />

@@ -16,6 +16,10 @@ public class TerrainTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 {
     #region 公共变量
 
+    public GameObject GameOverInterface;//游戏结束界面
+
+    public GameOverScript GameOverScript;//游戏结束脚本
+
     public CurrentSenceDataShare currentSenceDataShare;//共享数据类对象
 
     public DestoryItem destoryItem;//销毁对象类
@@ -174,8 +178,10 @@ public class TerrainTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
 
             if ((_currentCodeOfPuzzle-1)==_endCodeOfPuzzle)
             {
-                //TODO:拼图完成
-
+                //开启游戏结束界面
+                GameOverInterface.SetActive(true);
+                //显示游戏结果
+                GameOverScript.ShowGameResult();
                 Debug.Log("拼图完成");
             }
 

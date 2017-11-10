@@ -26,6 +26,8 @@ public class ContinueGameScript : MonoBehaviour
 		if (null==gameData)
 		{
 			Debug.Log("存档不存在");
+			//直接加载第一个场景
+			SplashLoad.StartSplashGameScene("cabins");
 			return;
 		}
 
@@ -33,5 +35,6 @@ public class ContinueGameScript : MonoBehaviour
 		ConfigureClass.isreadGameData = true;
 		//跳转到存档所在场景
 		SplashLoad.StartSplash(gameData.sceneName,2);
+
 	}
 }

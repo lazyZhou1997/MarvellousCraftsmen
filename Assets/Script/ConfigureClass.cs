@@ -15,6 +15,8 @@ public class ConfigureClass {
 
     public static string item_boxPicturePath = "Resource\\picture\\item_box";//物品栏中表示物品为空的图片
 
+
+
     #endregion
 
     #region 保存下一个要加载的场景名称
@@ -46,6 +48,13 @@ public class ConfigureClass {
     public static float finishTime = 0;//完成游戏的时间
 
     #endregion
+
+    #region 保存上次游戏结束时间
+
+    public static float lastFinishTime = 0;//完成游戏的时间
+
+    #endregion
+
     #region 拼图步骤
 
     public static Dictionary<string,int> puzzleStep = new Dictionary<string, int>();//悉尼歌剧院拼图步骤

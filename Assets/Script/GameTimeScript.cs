@@ -1,9 +1,13 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameTimeScript : MonoBehaviour
 {
+    public Text ShowTime; //用于显示当前时间
+
     #region 私有变量
 
     private float beginTime; //开始游戏时的时间
@@ -28,7 +32,12 @@ public class GameTimeScript : MonoBehaviour
         //当间隔超过1秒，则记录新的游戏时间
         if ((currentTime - ConfigureClass.finishTime) >= 1)
         {
+            //赋值当前时间
             ConfigureClass.finishTime = currentTime;
+            //显示当前用时
+            ShowTime.text = Convert.ToString((int) (ConfigureClass.finishTime + ConfigureClass.lastFinishTime) / 60) +
+                            ":" +
+                            Convert.ToString((int) (ConfigureClass.finishTime + ConfigureClass.lastFinishTime) % 60);
         }
 
         #endregion
