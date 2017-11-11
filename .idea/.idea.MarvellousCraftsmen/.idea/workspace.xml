@@ -2,56 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71400728-1476-43a4-9f9e-40e5261b6957" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/Music/gameMusic.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/Music/gameMusic.mp3.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/creative_mode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/creative_mode.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/story_mode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/story_mode.png.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/scene/creativemodemenu.unity" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/scene/creativemodemenu.unity.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/scene/gameover.unity" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/scene/gameover.unity.meta" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/complete/successbg.png" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/complete/successbg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/itembarbg.png" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/itembarbg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/mainmenu/creativemodeBT.png" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/mainmenu/creativemodeBT.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/mainmenu/storymodeBT.png" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/mainmenu/storymodeBT.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/storymodeui/storymodeuideletesave.png" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/storymodeui/storymodeuideletesave.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/storymodeui/storymodeuinewsave.png" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/storymodeui/storymodeuinewsave.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/SoundButton.controller" afterPath="$PROJECT_DIR$/Assets/SoundButton.controller" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/StoryModeButton.controller" afterPath="$PROJECT_DIR$/Assets/StoryModeButton.controller" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/begin_ugui.unity" afterPath="$PROJECT_DIR$/Assets/scene/begin_ugui.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/bicycle.unity" afterPath="$PROJECT_DIR$/Assets/scene/bicycle.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/cabins.unity" afterPath="$PROJECT_DIR$/Assets/scene/cabins.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/carousel.unity" afterPath="$PROJECT_DIR$/Assets/scene/carousel.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/dialogueScene.unity" afterPath="$PROJECT_DIR$/Assets/scene/dialogueScene.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/jeep.unity" afterPath="$PROJECT_DIR$/Assets/scene/jeep.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/library.unity" afterPath="$PROJECT_DIR$/Assets/scene/library.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/myrepositry.unity" afterPath="$PROJECT_DIR$/Assets/scene/myrepositry.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/repositryItem.unity" afterPath="$PROJECT_DIR$/Assets/scene/repositryItem.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/sailboat.unity" afterPath="$PROJECT_DIR$/Assets/scene/sailboat.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/selectchapter.unity" afterPath="$PROJECT_DIR$/Assets/scene/selectchapter.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/selectstageC2.unity" afterPath="$PROJECT_DIR$/Assets/scene/selectstageC2.unity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/selectstageC3.unity" afterPath="$PROJECT_DIR$/Assets/scene/selectstageC3.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/storymodemenu.unity" afterPath="$PROJECT_DIR$/Assets/scene/storymodemenu.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/scene/sydney.unity" afterPath="$PROJECT_DIR$/Assets/scene/sydney.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/contentModel.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.MarvellousCraftsmen/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/Music/backgroundMusic.ogg.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/Music/backgroundMusic.ogg.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/Music/buttonPressed.wav.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/Music/buttonPressed.wav.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/complete/successbg.png.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/complete/successbg.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/itembarbg.png.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/itembarbg.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/mainmenu/creativemodeBT.png.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/mainmenu/creativemodeBT.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/mainmenu/storymodeBT.png.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/mainmenu/storymodeBT.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/storymodeui/storymodeuideletesave.png.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/storymodeui/storymodeuideletesave.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Resources/Resource/picture/storymodeui/storymodeuinewsave.png.meta" afterPath="$PROJECT_DIR$/Assets/Resources/Resource/picture/storymodeui/storymodeuinewsave.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" afterPath="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/ContinueGameScript.cs" afterPath="$PROJECT_DIR$/Assets/Script/ContinueGameScript.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/GameOverScript.cs" afterPath="$PROJECT_DIR$/Assets/Script/GameOverScript.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/GameTimeScript.cs" afterPath="$PROJECT_DIR$/Assets/Script/GameTimeScript.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/InitialGameScript.cs" afterPath="$PROJECT_DIR$/Assets/Script/InitialGameScript.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs" afterPath="$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,72 +23,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TerrainTrackableEventHandler.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/TerrainTrackableEventHandler.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="183" column="48" lean-forward="false" selection-start-line="183" selection-start-column="48" selection-end-line="183" selection-end-column="48" />
-              <folding>
-                <marker date="1510323556997" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
-                <marker date="1510323556997" expanded="false" signature="374:401" ph="..." />
-                <marker date="1510323556997" expanded="true" signature="403:510" ph="///     A custom handler that implements the ITrackableEventHandler interface. ... " />
-                <marker date="1510323556997" expanded="true" signature="592:7632" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="599:882" ph="公共变量" />
-                <marker date="1510323556997" expanded="true" signature="888:1250" ph="PRIVATE_MEMBER_VARIABLES" />
-                <marker date="1510323556997" expanded="true" signature="1256:1771" ph="UNTIY_MONOBEHAVIOUR_METHODS" />
-                <marker date="1510323556997" expanded="true" signature="1327:1724" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="1397:1455" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="1777:3026" ph="PUBLIC_METHODS" />
-                <marker date="1510323556997" expanded="true" signature="1806:1956" ph="///     Implementation of the ITrackableEventHandler function called when the ... " />
-                <marker date="1510323556997" expanded="true" signature="2092:2992" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="2292:2427" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="2566:2699" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="2712:2986" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="2735:2946" ph="/* For combo of previousStatus=UNKNOWN + newStatus=UNKNOWN|NOT_FOUND ... */" />
-                <marker date="1510323556997" expanded="true" signature="3032:7098" ph="PRIVATE_METHODS" />
-                <marker date="1510323556997" expanded="true" signature="3101:6164" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="3108:3435" ph="/* 如果是第一次发现该对象并且该对象已经激活，则进行一些操作，让屏幕中心的对象消失 ... */" />
-                <marker date="1510323556997" expanded="true" signature="4028:4246" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
-                <marker date="1510323556997" expanded="true" signature="4256:6158" ph="进行拼图处理" />
-                <marker date="1510323556997" expanded="true" signature="4413:4473" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="4684:6007" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="5128:5223" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="5683:5997" ph="拼图完成处理" />
-                <marker date="1510323556997" expanded="true" signature="5758:5973" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="6032:6137" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="6210:7063" ph="{...}" />
-                <marker date="1510323556997" expanded="true" signature="6804:7057" ph="/* if (null != currentSenceDataShare)//保证共享数据类被初始化 ... */" />
-                <marker date="1510323556997" expanded="true" signature="7100:7630" ph="/*    /// 取消传入的GameObject对象数组中所有对象的激活 ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoadIntroductionOfCurrentScene.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentScene.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-              <folding>
-                <marker date="1510046950516" expanded="false" signature="6:133" ph="..." />
-                <marker date="1510046950516" expanded="true" signature="194:1285" ph="{...}" />
-                <marker date="1510046950516" expanded="true" signature="587:777" ph="{...}" />
-                <marker date="1510046950516" expanded="true" signature="832:1282" ph="{...}" />
-                <marker date="1510046950516" expanded="true" signature="880:1278" ph="{...}" />
-                <marker date="1510046950516" expanded="true" signature="888:1273" ph="显示要呈现的内容，每隔SHOWTIME秒显示一个字符" />
-                <marker date="1510046950516" expanded="true" signature="1041:1258" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LoadIntroductionOfCurrentRepository.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentRepository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="756">
               <caret line="26" column="85" lean-forward="false" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
               <folding>
-                <marker date="1510325726799" expanded="true" signature="6:133" ph="..." />
+                <marker date="1510325726799" expanded="false" signature="6:133" ph="..." />
                 <marker date="1510325726799" expanded="true" signature="199:1267" ph="{...}" />
                 <marker date="1510325726799" expanded="true" signature="549:759" ph="{...}" />
                 <marker date="1510325726799" expanded="true" signature="814:1264" ph="{...}" />
@@ -142,8 +44,8 @@
       <file leaf-file-name="ConfigureClass.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="53" column="29" lean-forward="false" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+            <state relative-caret-position="-808">
+              <caret line="87" column="6" lean-forward="false" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="6" />
               <folding>
                 <marker date="1510329259169" expanded="false" signature="6:59" ph="..." />
                 <marker date="1510329259169" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
@@ -203,11 +105,10 @@
       <file leaf-file-name="InitialGameScript.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/InitialGameScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1254">
+            <state relative-caret-position="612">
               <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <marker date="1510329328538" expanded="false" signature="6:100" ph="..." />
-                <marker date="1510329328538" expanded="true" signature="148:2884" ph="{...}" />
                 <marker date="1510329328538" expanded="true" signature="388:2881" ph="{...}" />
                 <marker date="1510329328538" expanded="true" signature="592:2801" ph="{...}" />
                 <marker date="1510329328538" expanded="true" signature="615:2791" ph="恢复游戏存档场景" />
@@ -220,25 +121,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameOverScript.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GameOverScript.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Script/GameOverScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1620">
+            <state relative-caret-position="-2808">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1510329168177" expanded="true" signature="6:114" ph="..." />
+                <marker date="1510329168177" expanded="false" signature="6:114" ph="..." />
                 <marker date="1510329168177" expanded="true" signature="159:2221" ph="{...}" />
                 <marker date="1510329168177" expanded="true" signature="324:371" ph="/// 显示游戏结果 ... " />
                 <marker date="1510329168177" expanded="true" signature="404:1543" ph="{...}" />
                 <marker date="1510329168177" expanded="true" signature="523:692" ph="{...}" />
                 <marker date="1510329168177" expanded="true" signature="705:759" ph="{...}" />
-                <marker date="1510329168177" expanded="false" signature="813:1008" ph="{...}" />
+                <marker date="1510329168177" expanded="true" signature="813:1008" ph="{...}" />
                 <marker date="1510329168177" expanded="true" signature="836:998" ph="显示三星评级" />
                 <marker date="1510329168177" expanded="true" signature="903:974" ph="{...}" />
-                <marker date="1510329168177" expanded="false" signature="1066:1265" ph="{...}" />
+                <marker date="1510329168177" expanded="true" signature="1066:1265" ph="{...}" />
                 <marker date="1510329168177" expanded="true" signature="1089:1255" ph="显示两星评级" />
                 <marker date="1510329168177" expanded="true" signature="1160:1231" ph="{...}" />
-                <marker date="1510329168177" expanded="false" signature="1323:1522" ph="{...}" />
+                <marker date="1510329168177" expanded="true" signature="1323:1522" ph="{...}" />
                 <marker date="1510329168177" expanded="true" signature="1346:1512" ph="显示一星评级" />
                 <marker date="1510329168177" expanded="true" signature="1417:1488" ph="{...}" />
                 <marker date="1510329168177" expanded="true" signature="1549:1642" ph="/// 再次玩这个游戏 ... " />
@@ -246,19 +147,19 @@
                 <marker date="1510329168177" expanded="true" signature="1768:1864" ph="/// 再次玩下一关的游戏 ... " />
                 <marker date="1510329168177" expanded="true" signature="1911:2051" ph="{...}" />
                 <marker date="1510329168177" expanded="true" signature="2057:2103" ph="/// 返回主菜单 ... " />
-                <marker date="1510329168177" expanded="false" signature="2138:2219" ph="{...}" />
+                <marker date="1510329168177" expanded="true" signature="2138:2219" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SplashLoad.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SplashLoad.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/SplashLoad.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="-1188">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1510325711053" expanded="true" signature="6:79" ph="..." />
+                <marker date="1510325711053" expanded="false" signature="6:79" ph="..." />
                 <marker date="1510325711053" expanded="true" signature="80:151" ph="/* 使用方法：将该脚本附在镜头下面，然后切换场景时镜头不销毁 ... */" />
                 <marker date="1510325711053" expanded="true" signature="207:5398" ph="{...}" />
                 <marker date="1510325711053" expanded="true" signature="298:356" ph="/* 将要加载的场景序号 ... */" />
@@ -295,46 +196,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameTimeScript.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/GameTimeScript.cs">
+      <file leaf-file-name="LoadDialogOfCurrentScene.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/LoadDialogOfCurrentScene.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="900">
+              <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
               <folding>
-                <marker date="1510329378905" expanded="true" signature="6:114" ph="..." />
-                <marker date="1510329378905" expanded="true" signature="159:1056" ph="{...}" />
-                <marker date="1510329378905" expanded="true" signature="204:273" ph="私有变量" />
-                <marker date="1510329378905" expanded="true" signature="326:389" ph="{...}" />
-                <marker date="1510329378905" expanded="true" signature="447:1054" ph="{...}" />
-                <marker date="1510329378905" expanded="true" signature="462:1048" ph="每隔1秒统计游戏时间" />
-                <marker date="1510329378905" expanded="true" signature="642:1028" ph="{...}" />
+                <marker date="1510046950516" expanded="true" signature="6:133" ph="..." />
+                <marker date="1510046950516" expanded="true" signature="188:1084" ph="{...}" />
+                <marker date="1510046950516" expanded="true" signature="467:644" ph="{...}" />
+                <marker date="1510046950516" expanded="true" signature="647:688" ph="/// 继续当前对话 ... " />
+                <marker date="1510046950516" expanded="true" signature="718:950" ph="{...}" />
+                <marker date="1510046950516" expanded="true" signature="768:865" ph="{...}" />
+                <marker date="1510046950516" expanded="true" signature="878:947" ph="{...}" />
+                <marker date="1510046950516" expanded="true" signature="953:996" ph="/// 跳转到下一个场景 ... " />
+                <marker date="1510046950516" expanded="true" signature="1029:1081" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CatchAModel.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/CatchAModel.cs">
+      <file leaf-file-name="PlayVedioScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/PlayVedioScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="60" column="30" lean-forward="false" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+            <state relative-caret-position="396">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
-                <marker date="1510235722028" expanded="false" signature="6:149" ph="..." />
-                <marker date="1510235722028" expanded="true" signature="152:220" ph="/// 用于抓取一个对象到物品栏，并且取消该物品与ImageTarget的绑定 ... " />
-                <marker date="1510235722028" expanded="true" signature="261:3348" ph="{...}" />
-                <marker date="1510235722028" expanded="true" signature="268:355" ph="物品栏中的五个按钮中的Image引用" />
-                <marker date="1510235722028" expanded="true" signature="697:859" ph="{...}" />
-                <marker date="1510235722028" expanded="true" signature="913:920" ph="{...}" />
-                <marker date="1510235722028" expanded="true" signature="926:989" ph="/// 将当前活跃的模型添加到物品栏数组items中 ... " />
-                <marker date="1510235722028" expanded="true" signature="1023:3346" ph="{...}" />
-                <marker date="1510235722028" expanded="true" signature="1111:1151" ph="{...}" />
-                <marker date="1510235722028" expanded="true" signature="1271:1718" ph="{...}" />
-                <marker date="1510235722028" expanded="true" signature="1404:1573" ph="{...}" />
-                <marker date="1510235722028" expanded="true" signature="1606:1665" ph="{...}" />
-                <marker date="1510235722028" expanded="true" signature="1824:1908" ph="{...}" />
-                <marker date="1510235722028" expanded="true" signature="2465:2518" ph="/* 加载对应的资源到内存中 ... */" />
-                <marker date="1510235722028" expanded="true" signature="2626:2919" ph="完成物品栏中图片的加载" />
-                <marker date="1510235722028" expanded="true" signature="2929:3340" ph="完成物品栏中对象的加载" />
+                <marker date="1510411758860" expanded="false" signature="6:78" ph="..." />
+                <marker date="1510411758860" expanded="true" signature="125:293" ph="{...}" />
+                <marker date="1510411758860" expanded="true" signature="175:290" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameTimeScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/GameTimeScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <marker date="1510329378905" expanded="true" signature="6:114" ph="..." />
+                <marker date="1510329378905" expanded="true" signature="204:273" ph="私有变量" />
+                <marker date="1510329378905" expanded="true" signature="326:389" ph="{...}" />
+                <marker date="1510329378905" expanded="true" signature="447:1054" ph="{...}" />
+                <marker date="1510329378905" expanded="true" signature="462:1048" ph="每隔1秒统计游戏时间" />
+                <marker date="1510329378905" expanded="true" signature="642:1028" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -372,6 +279,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Script/QuitGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/SplashLoad.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CurrentSenceDataShare.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PlayVedioScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/LoadDialogOfCurrentScene.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/ContinueGameScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/InitilizatinARScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DeleteCurrentArchieveScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -411,6 +320,7 @@
         <option value="$PROJECT_DIR$/Assets/Script/ConfigureClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/InitialGameScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/GameTimeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PlayVedioScript.cs" />
       </list>
     </option>
   </component>
@@ -420,7 +330,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-42" />
+    <option name="y" value="94" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -439,6 +351,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -470,13 +383,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="SearchEverywhereHistoryKey" value="Game&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/GameTimeScript.cs&#10;ini&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/InitialGameScript.cs&#10;Ini&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/InitialGameScript.cs&#10;Terr&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/TerrainTrackableEventHandler.cs&#10;Confi&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/ConfigureClass.cs&#10;CAtch&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/CatchAModel.cs&#10;Save&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/SaveGameDataScript.cs&#10;ter&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/TerrainTrackableEventHandler.cs&#10;Curr&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/CurrentSenceDataShare.cs&#10;Cat&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/CatchAModel.cs&#10;GameTime&#9;null&#9;null&#10;INi&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/InitialGameScript.cs&#10;Config&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/ConfigureClass.cs&#10;Load&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="Configu&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/ConfigureClass.cs&#10;Game&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/GameTimeScript.cs&#10;ini&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/InitialGameScript.cs&#10;Ini&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/InitialGameScript.cs&#10;Terr&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/TerrainTrackableEventHandler.cs&#10;Confi&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/ConfigureClass.cs&#10;CAtch&#9;FILE&#9;file://F:/unity/MarvellousCraftsmen/Assets/Script/CatchAModel.cs&#10;Save&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/SaveGameDataScript.cs&#10;ter&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/TerrainTrackableEventHandler.cs&#10;Curr&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/CurrentSenceDataShare.cs&#10;Cat&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/CatchAModel.cs&#10;GameTime&#9;null&#9;null&#10;INi&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/InitialGameScript.cs&#10;Config&#9;FILE&#9;file:///Users/zhouqinchun/MarvellousCraftsmen/Assets/Script/ConfigureClass.cs&#10;Load&#9;null&#9;null" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -518,11 +430,13 @@
       <workItem from="1510236229787" duration="1976000" />
       <workItem from="1510241468345" duration="1271000" />
       <workItem from="1510280768951" duration="12125000" />
+      <workItem from="1510369679371" duration="1071000" />
+      <workItem from="1510411651033" duration="1901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46072000" />
+    <option name="totallyTimeSpent" value="49044000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,8 +448,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -573,55 +486,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="27" column="56" lean-forward="false" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
-          <folding>
-            <marker date="1510329259169" expanded="false" signature="6:59" ph="..." />
-            <marker date="1510329259169" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
-            <marker date="1510329259169" expanded="true" signature="128:10542" ph="{...}" />
-            <marker date="1510329259169" expanded="true" signature="135:631" ph="资源文件路径信息" />
-            <marker date="1510329259169" expanded="true" signature="637:715" ph="保存下一个要加载的场景名称" />
-            <marker date="1510329259169" expanded="true" signature="721:827" ph="是否读取存档" />
-            <marker date="1510329259169" expanded="true" signature="837:911" ph="存档名称" />
-            <marker date="1510329259169" expanded="true" signature="917:1017" ph="保存仓库场景中要显示的模型的名字" />
-            <marker date="1510329259169" expanded="true" signature="1023:1105" ph="保存游戏结束时间" />
-            <marker date="1510329259169" expanded="true" signature="1111:1199" ph="保存上次游戏结束时间" />
-            <marker date="1510329259169" expanded="true" signature="1205:1330" ph="拼图步骤" />
-            <marker date="1510329259169" expanded="true" signature="1336:1458" ph="对话内容" />
-            <marker date="1510329259169" expanded="true" signature="1468:1588" ph="模型介绍" />
-            <marker date="1510329259169" expanded="true" signature="1639:10539" ph="{...}" />
-            <marker date="1510329259169" expanded="true" signature="1654:2222" ph="Sydney拼图步骤初始化" />
-            <marker date="1510329259169" expanded="true" signature="2232:2652" ph="Cabins拼图步骤初始化" />
-            <marker date="1510329259169" expanded="true" signature="2662:3047" ph="Library拼图步骤初始化" />
-            <marker date="1510329259169" expanded="true" signature="3057:3368" ph="SailBoat拼图步骤初始化" />
-            <marker date="1510329259169" expanded="true" signature="3378:3723" ph="Jeep拼图步骤初始化" />
-            <marker date="1510329259169" expanded="true" signature="3733:4210" ph="Bicycle拼图步骤初始化" />
-            <marker date="1510329259169" expanded="true" signature="4214:4535" ph="Carousel拼图步骤初始化" />
-            <marker date="1510329259169" expanded="true" signature="4539:7323" ph="初始化对话内容" />
-            <marker date="1510329259169" expanded="true" signature="4632:4831" ph="{...}" />
-            <marker date="1510329259169" expanded="true" signature="4927:5514" ph="{...}" />
-            <marker date="1510329259169" expanded="true" signature="5618:5987" ph="{...}" />
-            <marker date="1510329259169" expanded="true" signature="6083:6314" ph="{...}" />
-            <marker date="1510329259169" expanded="true" signature="6412:6682" ph="{...}" />
-            <marker date="1510329259169" expanded="true" signature="6787:6982" ph="{...}" />
-            <marker date="1510329259169" expanded="true" signature="7085:7259" ph="{...}" />
-            <marker date="1510329259169" expanded="true" signature="7341:8576" ph="模型介绍" />
-            <marker date="1510329259169" expanded="true" signature="8586:9232" ph="初始化所有物品图片路径信息" />
-            <marker date="1510329259169" expanded="true" signature="9242:9962" ph="初始化所有物品Prefab路径信息" />
-            <marker date="1510329259169" expanded="true" signature="9972:10533" ph="初始化拼图结果预设体地址" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/ShowRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/LoadSceneScript.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -853,7 +717,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/ChangeScene.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Script/LoadDialogOfCurrentScene.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Script/ShowRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -917,14 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
           <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-          <folding>
-            <marker date="1510240734801" expanded="true" signature="6:114" ph="..." />
-            <marker date="1510240734801" expanded="true" signature="165:779" ph="{...}" />
-            <marker date="1510240734801" expanded="true" signature="253:440" ph="{...}" />
-            <marker date="1510240734801" expanded="true" signature="494:499" ph="{...}" />
-            <marker date="1510240734801" expanded="true" signature="502:547" ph="/// 选择当前存档作为存档 ... " />
-            <marker date="1510240734801" expanded="true" signature="584:777" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -940,13 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <marker date="1510241649910" expanded="false" signature="6:102" ph="..." />
-            <marker date="1510241649910" expanded="true" signature="149:707" ph="{...}" />
-            <marker date="1510241649910" expanded="true" signature="419:471" ph="{...}" />
-            <marker date="1510241649910" expanded="true" signature="525:702" ph="{...}" />
-            <marker date="1510241649910" expanded="true" signature="619:695" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -954,10 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <marker date="1510241339955" expanded="true" signature="6:127" ph="..." />
-            <marker date="1510241339955" expanded="true" signature="155:327" ph="游戏存档内容" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -984,14 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-196">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510240942762" expanded="false" signature="6:100" ph="..." />
-            <marker date="1510240942762" expanded="true" signature="158:470" ph="{...}" />
-            <marker date="1510240942762" expanded="true" signature="245:252" ph="{...}" />
-            <marker date="1510240942762" expanded="true" signature="307:314" ph="{...}" />
-            <marker date="1510240942762" expanded="true" signature="317:361" ph="/// 删除当前选中的存档 ... " />
-            <marker date="1510240942762" expanded="true" signature="398:468" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -999,14 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="668">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <marker date="1510281357420" expanded="true" signature="6:78" ph="..." />
-            <marker date="1510281357420" expanded="true" signature="127:744" ph="{...}" />
-            <marker date="1510281357420" expanded="true" signature="218:225" ph="{...}" />
-            <marker date="1510281357420" expanded="true" signature="280:287" ph="{...}" />
-            <marker date="1510281357420" expanded="true" signature="321:742" ph="{...}" />
-            <marker date="1510281357420" expanded="true" signature="519:622" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,18 +842,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-          <folding>
-            <marker date="1510046950534" expanded="true" signature="6:113" ph="..." />
-            <marker date="1510046950534" expanded="true" signature="160:455" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="220:344" ph="{...}" />
-            <marker date="1510046950534" expanded="true" signature="398:453" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/CatchAModel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
+        <state relative-caret-position="1980">
           <caret line="60" column="30" lean-forward="false" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
           <folding>
             <marker date="1510235722028" expanded="false" signature="6:149" ph="..." />
@@ -1091,15 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding>
-            <marker date="1510046950516" expanded="false" signature="6:133" ph="..." />
-            <marker date="1510046950516" expanded="true" signature="194:1285" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="587:777" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="832:1282" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="880:1278" ph="{...}" />
-            <marker date="1510046950516" expanded="true" signature="888:1273" ph="显示要呈现的内容，每隔SHOWTIME秒显示一个字符" />
-            <marker date="1510046950516" expanded="true" signature="1041:1258" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1120,10 +933,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/LoadIntroductionOfCurrentRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="756">
           <caret line="26" column="85" lean-forward="false" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
           <folding>
-            <marker date="1510325726799" expanded="true" signature="6:133" ph="..." />
+            <marker date="1510325726799" expanded="false" signature="6:133" ph="..." />
             <marker date="1510325726799" expanded="true" signature="199:1267" ph="{...}" />
             <marker date="1510325726799" expanded="true" signature="549:759" ph="{...}" />
             <marker date="1510325726799" expanded="true" signature="814:1264" ph="{...}" />
@@ -1134,10 +947,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/GameTimeScript.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
-          <caret line="53" column="29" lean-forward="false" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <marker date="1510329378905" expanded="true" signature="6:114" ph="..." />
+            <marker date="1510329378905" expanded="true" signature="204:273" ph="私有变量" />
+            <marker date="1510329378905" expanded="true" signature="326:389" ph="{...}" />
+            <marker date="1510329378905" expanded="true" signature="447:1054" ph="{...}" />
+            <marker date="1510329378905" expanded="true" signature="462:1048" ph="每隔1秒统计游戏时间" />
+            <marker date="1510329378905" expanded="true" signature="642:1028" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/InitialGameScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1510329328538" expanded="false" signature="6:100" ph="..." />
+            <marker date="1510329328538" expanded="true" signature="388:2881" ph="{...}" />
+            <marker date="1510329328538" expanded="true" signature="592:2801" ph="{...}" />
+            <marker date="1510329328538" expanded="true" signature="615:2791" ph="恢复游戏存档场景" />
+            <marker date="1510329328538" expanded="true" signature="1094:2672" ph="{...}" />
+            <marker date="1510329328538" expanded="true" signature="1194:1276" ph="{...}" />
+            <marker date="1510329328538" expanded="true" signature="1350:2658" ph="{...}" />
+            <marker date="1510329328538" expanded="true" signature="1617:2293" ph="恢复物品栏中对象的引用" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/LoadDialogOfCurrentScene.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+          <folding>
+            <marker date="1510046950516" expanded="true" signature="6:133" ph="..." />
+            <marker date="1510046950516" expanded="true" signature="188:1084" ph="{...}" />
+            <marker date="1510046950516" expanded="true" signature="467:644" ph="{...}" />
+            <marker date="1510046950516" expanded="true" signature="647:688" ph="/// 继续当前对话 ... " />
+            <marker date="1510046950516" expanded="true" signature="718:950" ph="{...}" />
+            <marker date="1510046950516" expanded="true" signature="768:865" ph="{...}" />
+            <marker date="1510046950516" expanded="true" signature="878:947" ph="{...}" />
+            <marker date="1510046950516" expanded="true" signature="953:996" ph="/// 跳转到下一个场景 ... " />
+            <marker date="1510046950516" expanded="true" signature="1029:1081" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PlayVedioScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/PlayVedioScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1510411758860" expanded="false" signature="6:78" ph="..." />
+            <marker date="1510411758860" expanded="true" signature="125:293" ph="{...}" />
+            <marker date="1510411758860" expanded="true" signature="175:290" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/ConfigureClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-808">
+          <caret line="87" column="6" lean-forward="false" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="6" />
           <folding>
             <marker date="1510329259169" expanded="false" signature="6:59" ph="..." />
             <marker date="1510329259169" expanded="true" signature="61:99" ph="/// 配置文件类 ... " />
@@ -1176,76 +1052,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/GameOverScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1620">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510329168177" expanded="true" signature="6:114" ph="..." />
-            <marker date="1510329168177" expanded="true" signature="159:2221" ph="{...}" />
-            <marker date="1510329168177" expanded="true" signature="324:371" ph="/// 显示游戏结果 ... " />
-            <marker date="1510329168177" expanded="true" signature="404:1543" ph="{...}" />
-            <marker date="1510329168177" expanded="true" signature="523:692" ph="{...}" />
-            <marker date="1510329168177" expanded="true" signature="705:759" ph="{...}" />
-            <marker date="1510329168177" expanded="false" signature="813:1008" ph="{...}" />
-            <marker date="1510329168177" expanded="true" signature="836:998" ph="显示三星评级" />
-            <marker date="1510329168177" expanded="true" signature="903:974" ph="{...}" />
-            <marker date="1510329168177" expanded="false" signature="1066:1265" ph="{...}" />
-            <marker date="1510329168177" expanded="true" signature="1089:1255" ph="显示两星评级" />
-            <marker date="1510329168177" expanded="true" signature="1160:1231" ph="{...}" />
-            <marker date="1510329168177" expanded="false" signature="1323:1522" ph="{...}" />
-            <marker date="1510329168177" expanded="true" signature="1346:1512" ph="显示一星评级" />
-            <marker date="1510329168177" expanded="true" signature="1417:1488" ph="{...}" />
-            <marker date="1510329168177" expanded="true" signature="1549:1642" ph="/// 再次玩这个游戏 ... " />
-            <marker date="1510329168177" expanded="true" signature="1686:1762" ph="{...}" />
-            <marker date="1510329168177" expanded="true" signature="1768:1864" ph="/// 再次玩下一关的游戏 ... " />
-            <marker date="1510329168177" expanded="true" signature="1911:2051" ph="{...}" />
-            <marker date="1510329168177" expanded="true" signature="2057:2103" ph="/// 返回主菜单 ... " />
-            <marker date="1510329168177" expanded="false" signature="2138:2219" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/GameTimeScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <marker date="1510329378905" expanded="true" signature="6:114" ph="..." />
-            <marker date="1510329378905" expanded="true" signature="159:1056" ph="{...}" />
-            <marker date="1510329378905" expanded="true" signature="204:273" ph="私有变量" />
-            <marker date="1510329378905" expanded="true" signature="326:389" ph="{...}" />
-            <marker date="1510329378905" expanded="true" signature="447:1054" ph="{...}" />
-            <marker date="1510329378905" expanded="true" signature="462:1048" ph="每隔1秒统计游戏时间" />
-            <marker date="1510329378905" expanded="true" signature="642:1028" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/InitialGameScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1254">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1510329328538" expanded="false" signature="6:100" ph="..." />
-            <marker date="1510329328538" expanded="true" signature="148:2884" ph="{...}" />
-            <marker date="1510329328538" expanded="true" signature="388:2881" ph="{...}" />
-            <marker date="1510329328538" expanded="true" signature="592:2801" ph="{...}" />
-            <marker date="1510329328538" expanded="true" signature="615:2791" ph="恢复游戏存档场景" />
-            <marker date="1510329328538" expanded="true" signature="1094:2672" ph="{...}" />
-            <marker date="1510329328538" expanded="true" signature="1194:1276" ph="{...}" />
-            <marker date="1510329328538" expanded="true" signature="1350:2658" ph="{...}" />
-            <marker date="1510329328538" expanded="true" signature="1617:2293" ph="恢复物品栏中对象的引用" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/SplashLoad.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state relative-caret-position="-1188">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1510325711053" expanded="true" signature="6:79" ph="..." />
+            <marker date="1510325711053" expanded="false" signature="6:79" ph="..." />
             <marker date="1510325711053" expanded="true" signature="80:151" ph="/* 使用方法：将该脚本附在镜头下面，然后切换场景时镜头不销毁 ... */" />
             <marker date="1510325711053" expanded="true" signature="207:5398" ph="{...}" />
             <marker date="1510325711053" expanded="true" signature="298:356" ph="/* 将要加载的场景序号 ... */" />
@@ -1277,6 +1089,36 @@
             <marker date="1510325711053" expanded="true" signature="5164:5333" ph="{...}" />
             <marker date="1510325711053" expanded="true" signature="5227:5319" ph="{...}" />
             <marker date="1510325711053" expanded="true" signature="5350:5380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/GameOverScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2808">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1510329168177" expanded="false" signature="6:114" ph="..." />
+            <marker date="1510329168177" expanded="true" signature="159:2221" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="324:371" ph="/// 显示游戏结果 ... " />
+            <marker date="1510329168177" expanded="true" signature="404:1543" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="523:692" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="705:759" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="813:1008" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="836:998" ph="显示三星评级" />
+            <marker date="1510329168177" expanded="true" signature="903:974" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="1066:1265" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="1089:1255" ph="显示两星评级" />
+            <marker date="1510329168177" expanded="true" signature="1160:1231" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="1323:1522" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="1346:1512" ph="显示一星评级" />
+            <marker date="1510329168177" expanded="true" signature="1417:1488" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="1549:1642" ph="/// 再次玩这个游戏 ... " />
+            <marker date="1510329168177" expanded="true" signature="1686:1762" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="1768:1864" ph="/// 再次玩下一关的游戏 ... " />
+            <marker date="1510329168177" expanded="true" signature="1911:2051" ph="{...}" />
+            <marker date="1510329168177" expanded="true" signature="2057:2103" ph="/// 返回主菜单 ... " />
+            <marker date="1510329168177" expanded="true" signature="2138:2219" ph="{...}" />
           </folding>
         </state>
       </provider>

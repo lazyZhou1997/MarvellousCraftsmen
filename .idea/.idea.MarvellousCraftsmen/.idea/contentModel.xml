@@ -48,6 +48,7 @@
           <e p="ModelToShowInRepository.cs" t="Include" />
           <e p="PanelListener.cs" t="Include" />
           <e p="PlayGameMusic.cs" t="Include" />
+          <e p="PlayVedioScript.cs" t="Include" />
           <e p="QuitButtonListener.cs" t="Include" />
           <e p="QuitGame.cs" t="Include" />
           <e p="SaveGameDataScript.cs" t="Include" />
